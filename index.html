@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>College Football</title>
+	<!-- CSS -->
+	<link href="css/main.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+    <div class="container">
+		<h1>NCAA Football 2019</h1>
+		<p>"College football sucks" -- <a href="https://ifcolorful.com">Sarina Chen</a></p>
+		<p>Hover over the school to see wins (<span class="win">green links</span>) and losses (<span class="lose">red links</span>) against other schools. Schools forming a cycle of arrows contribute towards their conference's Circle of Suck.</p>
+	</div>
+
+	<div id="chart">
+
+		<div id="tooltip-team" class="tooltip flex-row hidden">
+			<div id="tooltip-team-img-container">
+				<img id="tooltip-team-img">
+			</div>
+			<div id="tooltip-team-description-container" class="flex-col">
+				<h3 id="tooltip-team-description-name"></h3>
+				<p id="tooltip-team-description-conference"></p>
+			</div>
+		</div>
+
+		<div id="tooltip-game" class="tooltip flex-col hidden">
+			<div id="tooltip-game-banner"></div>
+			<div id="tooltip-game-date-container">
+				<p id="tooltip-game-date"></p>
+			</div>
+			<div id="tooltip-game-score" class="flex-row">
+				<div><h1 id="tooltip-game-score-away"></h1></div>
+				<div><h1 id="tooltip-game-score-spacing">-</h1></div>
+				<div><h1 id="tooltip-game-score-home"></h1></div>
+			</div>
+		</div>
+	</div>
+	<script src="https://d3js.org/d3.v6.min.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

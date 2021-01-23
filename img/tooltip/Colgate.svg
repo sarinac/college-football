@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>colgate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0547945205 0.260273973 199.944292 0.260273973 199.944292 188.127854 0.0547945205 188.127854"></polygon>
+    </defs>
+    <g id="colgate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="colgate_BGD">
+            <g id="colgate-copy" transform="translate(0.000000, 6.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M176.326941,125.594521 L199.944292,148.675799 C176.058447,172.830137 139.557991,188.127854 103.863014,188.127854 C39.7205479,188.127854 0,141.429224 0,94.1936073 C0,44.543379 39.9890411,0.260273973 102.790868,0.260273973 C139.557991,0.260273973 176.058447,15.5579909 199.944292,39.7123288 L176.326941,62.7936073 C158.614612,45.0803653 131.239269,33.0027397 102.790868,33.0027397 C61.996347,33.0027397 34.3525114,60.6465753 34.3525114,94.1936073 C34.3525114,124.789041 61.7278539,155.384475 103.863014,155.384475 C131.239269,155.384475 158.614612,143.307763 176.326941,125.594521" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

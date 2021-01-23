@@ -1,0 +1,170 @@
+@charset "UTF-8";
+
+html {
+    height: 100%;
+}
+
+* {
+	box-sizing: border-box;
+	text-align: left;
+}
+
+body {
+	font-family: "Geogrotesque", "Rockwell", Georgia, "Times New Roman", serif;
+	background:url(../img/chalkboard.jpg);
+	background-size: cover;
+	color: #ffffff;
+}
+
+.container, #chart {
+	padding: 0px;
+	margin-top: 10px auto 0px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: inherit;
+}
+
+h2 {
+	font-size: 24px;
+	text-align: inherit;
+}
+
+h3 {
+	font-size: 18.5px;
+	text-align: inherit;
+}
+
+p, a {
+	font-size: 14px;
+	text-align: inherit;
+	color: #ffffff;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+/* ----------------- Visual ----------------- */
+
+.conference-title-text {
+	text-anchor: middle;
+	fill: #ffffff;
+}
+
+.conference-circle {
+	fill: none;
+	stroke-width: 3px;
+	stroke: #ffffff;
+}
+
+.game-links {
+    stroke-width: 1px;
+	opacity: 80%;
+	fill: none;
+	stroke: #ffffff;
+	stroke-linecap: round;
+}
+
+.circle-of-suck-links-path {
+	stroke-width: 3px;
+}
+
+.injectable {
+	filter: brightness(0) invert(1);
+	fill: #ffffff;
+}
+
+.win {
+	stroke: #32B593;
+	stroke-width: 3px;
+	color: #32B593;
+}
+
+.lose {
+	stroke: #B44448;
+	stroke-width: 3px;
+	color: #B44448;
+}
+
+/* ----------------- Tooltip ----------------- */
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+}
+
+.tooltip {
+	position: absolute;
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	height: auto;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+#tooltip-team {
+	max-width: 300px;
+	height: auto;
+	padding: 10px;
+}
+
+#tooltip-team-img-container {
+	display: inline-block;
+	height: 100%;
+	margin: auto 10px;
+}
+
+#tooltip-team-img {
+	max-width: 80px;
+	height: auto;
+}
+
+#tooltip-team-description-container {
+	color: #ffffff;
+	background-color: none;
+	padding: 20px;
+	flex-grow: 1;
+	padding: 0px;
+	margin: auto 5px;
+}
+
+#tooltip-team-description-container.p {
+	margin-top: 0px;
+}
+
+#tooltip-game {
+	background-color: #ffffff;
+	max-width: 400px;
+	height: auto;
+	color:black;
+}
+
+#tooltip-game-banner-home-name, #tooltip-game-banner-away-name { 
+	fill: #ffffff;
+	font-size: 12px;
+	dominant-baseline: middle;
+}
+
+#tooltip-game-score, #tooltip-game-date {
+	padding: 5px;
+	margin: auto;
+	text-align: center;
+}
+
+#tooltip-game-score-spacing {
+	margin-left: 20px;
+	margin-right: 20px;
+}

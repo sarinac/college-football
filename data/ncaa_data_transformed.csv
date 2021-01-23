@@ -1,0 +1,878 @@
+week,date,winner_team,winner_score,winner_rank,winner_side,winner_primary_color,winner_secondary_color,loser_team,loser_score,loser_rank,loser_side,loser_primary_color,loser_secondary_color,winner_team_clean,loser_team_clean,winner_conference,loser_conference
+1,"Saturday, August 24, 2019",Florida,24,8.0,home,#003087,#00266c,Miami (FL),20,,away,#154734,#103829,Florida,Miami (FL),Southeastern,Atlantic Coast
+1,"Saturday, August 24, 2019",Hawaii,45,,home,#154734,#103829,Arizona,38,,away,#00205B,#001948,Hawaii,Arizona,Mountain West,Pac-12
+1,"Thursday, August 29, 2019",Buffalo,38,,home,#0057B8,#004593,Robert Morris,10,,away,#041E42,#031834,Buffalo,Robert Morris,Mid-American,
+1,"Thursday, August 29, 2019",Cincinnati,24,,home,#C8102E,#a00c24,UCLA,14,,away,#0072CE,#005ba4,Cincinnati,UCLA,American Athletic Conference,Pac-12
+1,"Thursday, August 29, 2019",Bowling Green,46,,home,#FE5000,#cb4000,Morgan St.,3,,away,#FC4C02,#c93c01,Bowling Green,Morgan State,Mid-American,
+1,"Thursday, August 29, 2019",UConn,24,,home,#0C2340,#091c33,Wagner,21,,away,#034638,#02382c,Connecticut,Wagner,,
+1,"Thursday, August 29, 2019",Charlotte,49,,home,#046A38,#03542c,Gardner-Webb,28,,away,#A6192E,#841424,Charlotte,Gardner-Webb,Conference USA,
+1,"Thursday, August 29, 2019",Central Ark.,35,,away,#582C83,#462368,Western Ky.,28,,home,#C8102E,#a00c24,Central Ark.,Western Kentucky,,Conference USA
+1,"Thursday, August 29, 2019",UCF,62,17.0,home,#010101,#000,Florida A&M,0,,away,#FF8200,#cc6800,UCF,Florida A&M,American Athletic Conference,
+1,"Thursday, August 29, 2019",Tulane,42,,home,#006747,#005238,FIU,14,,away,#041E42,#031834,Tulane,Florida International,American Athletic Conference,Conference USA
+1,"Thursday, August 29, 2019",UAB,24,,home,#006341,#004f34,Alabama St.,19,,away,#010101,#000,UAB,Alabama State,Conference USA,
+1,"Thursday, August 29, 2019",Central Mich.,38,,home,#6F263D,#581e30,Albany (NY),21,,away,#512D6D,#402457,Central Michigan,Albany (NY),Mid-American,
+1,"Thursday, August 29, 2019",Clemson,52,1.0,home,#FF6720,#cc5219,Georgia Tech,14,,away,#B3A369,#8f8254,Clemson,Georgia Tech,Atlantic Coast,Atlantic Coast
+1,"Thursday, August 29, 2019",Texas A&M,41,12.0,home,#500000,#400000,Texas St.,7,,away,#572932,#452028,Texas A&M,Texas State,Southeastern,Sun Belt
+1,"Thursday, August 29, 2019",Minnesota,28,,home,#861F41,#6b1834,South Dakota St.,21,,away,#0032A0,#002880,Minnesota,South Dakota State,Big Ten,
+1,"Thursday, August 29, 2019",Arizona St.,30,,home,#7D2248,#641b39,Kent St.,7,,away,#00205B,#001948,Arizona State,Kent State,Pac-12,Mid-American
+1,"Thursday, August 29, 2019",San Jose St.,35,,home,#0032A0,#002880,Northern Colo.,18,,away,#002855,#002044,San Jose State,Northern Colo.,Mountain West,
+1,"Thursday, August 29, 2019",Utah,30,14.0,away,#BA0C2F,#940925,BYU,12,,home,#002E5D,#00244a,Utah,Brigham Young,Pac-12,Independents(FBS)
+1,"Friday, August 30, 2019",Army West Point,14,,home,#010101,#000,Rice,7,,away,#00205B,#001948,Army,Rice,Independents(FBS),Conference USA
+1,"Friday, August 30, 2019",Michigan St.,28,18.0,home,#173F35,#12322a,Tulsa,7,,away,#002D72,#00245b,Michigan State,Tulsa,Big Ten,American Athletic Conference
+1,"Friday, August 30, 2019",Wisconsin,49,19.0,away,#BA0C2F,#940925,South Fla.,0,,home,#006747,#005238,Wisconsin,South Florida,Big Ten,American Athletic Conference
+1,"Friday, August 30, 2019",Rutgers,48,,home,#C8102E,#a00c24,Massachusetts,21,,away,#971B2F,#781525,Rutgers,Massachusetts,Big Ten,Independents(FBS)
+1,"Friday, August 30, 2019",Wake Forest,38,,home,#010101,#000,Utah St.,35,,away,#00263A,#001e2e,Wake Forest,Utah State,Atlantic Coast,Mountain West
+1,"Friday, August 30, 2019",Nevada,34,,home,#041E42,#031834,Purdue,31,,away,#010101,#000,Nevada,Purdue,Mountain West,Big Ten
+1,"Friday, August 30, 2019",Colorado,52,,home,#010101,#000,Colorado St.,31,,away,#2C5234,#234129,Colorado,Colorado State,Pac-12,Mountain West
+1,"Friday, August 30, 2019",Oklahoma St.,52,,away,#E35205,#b54104,Oregon St.,36,,home,#DC4405,#b03604,Oklahoma State,Oregon State,Big 12,Pac-12
+1,"Saturday, August 31, 2019",NC State,34,,home,#C8102E,#a00c24,East Carolina,6,,away,#582C83,#462368,North Carolina State,East Carolina,Atlantic Coast,American Athletic Conference
+1,"Saturday, August 31, 2019",Kansas,24,,home,#003DA5,#003084,Indiana St.,17,,away,#003DA5,#003084,Kansas,Indiana State,Big 12,
+1,"Saturday, August 31, 2019",Memphis,15,,home,#012169,#001a54,Ole Miss,10,,away,#00205B,#001948,Memphis,Ole Miss,American Athletic Conference,Southeastern
+1,"Saturday, August 31, 2019",Mississippi St.,38,,away,#6F2C3F,#582332,Louisiana,28,,home,#C8102E,#a00c24,Mississippi State,Louisiana-Lafayette,Southeastern,Sun Belt
+1,"Saturday, August 31, 2019",Indiana,34,,away,#9D2235,#7d1b2a,Ball St.,24,,home,#BA0C2F,#940925,Indiana,Ball State,Big Ten,Mid-American
+1,"Saturday, August 31, 2019",Iowa St.,29,21.0,home,#A6192E,#841424,UNI,26,,away,#470A68,#380853,Iowa State,UNI,Big 12,
+1,"Saturday, August 31, 2019",Boise St.,36,,away,#0032A0,#002880,Florida St.,31,,home,#782F40,#602533,Boise State,Florida State,Mountain West,Atlantic Coast
+1,"Saturday, August 31, 2019",Ohio St.,45,5.0,home,#BA0C2F,#940925,Fla. Atlantic,21,,away,#002855,#002044,Ohio State,Florida Atlantic,Big Ten,Conference USA
+1,"Saturday, August 31, 2019",Maryland,79,,home,#C8102E,#a00c24,Howard,0,,away,#00263E,#001e31,Maryland,Howard,Big Ten,
+1,"Saturday, August 31, 2019",Nebraska,35,24.0,home,#C8102E,#a00c24,South Alabama,21,,away,#BF0D3E,#980a31,Nebraska,South Alabama,Big Ten,Sun Belt
+1,"Saturday, August 31, 2019",Illinois,42,,home,#E04E39,#b33e2d,Akron,3,,away,#041E42,#031834,Illinois,Akron,Big Ten,Mid-American
+1,"Saturday, August 31, 2019",Kentucky,38,,home,#0032A0,#002880,Toledo,24,,away,#00205B,#001948,Kentucky,Toledo,Southeastern,Mid-American
+1,"Saturday, August 31, 2019",Ohio,41,,home,#2C5234,#234129,Rhode Island,20,,away,#041E42,#031834,Ohio,Rhode Island,Mid-American,
+1,"Saturday, August 31, 2019",West Virginia,20,,home,#002855,#002044,James Madison,13,,away,#330072,#28005b,West Virginia,James Madison,Big 12,
+1,"Saturday, August 31, 2019",Temple,56,,home,#b30838,#8f062c,Bucknell,12,,away,#071D49,#05173a,Temple,Bucknell,American Athletic Conference,
+1,"Saturday, August 31, 2019",Washington,47,13.0,home,#330072,#28005b,Eastern Wash.,14,,away,#A6192E,#841424,Washington,Eastern Wash.,Pac-12,
+1,"Saturday, August 31, 2019",Eastern Mich.,30,,away,#046A38,#03542c,Coastal Carolina,23,,home,#007377,#005c5f,Eastern Michigan,Coastal Carolina,Mid-American,Sun Belt
+1,"Saturday, August 31, 2019",North Carolina,24,,home,#7BAFD4,#628ca9,South Carolina,20,,away,#862633,#6b1e28,North Carolina,South Carolina,Atlantic Coast,Southeastern
+1,"Saturday, August 31, 2019",Alabama,42,2.0,away,#9D2235,#7d1b2a,Duke,3,,home,#002D72,#00245b,Alabama,Duke,Southeastern,Atlantic Coast
+1,"Saturday, August 31, 2019",Penn St.,79,15.0,home,#041E42,#031834,Idaho,7,,away,#896C4C,#6d563c,Penn State,Idaho,Big Ten,
+1,"Saturday, August 31, 2019",Navy,45,,home,#00205B,#001948,Holy Cross,7,,away,#582C83,#462368,Navy,Holy Cross,American Athletic Conference,
+1,"Saturday, August 31, 2019",Georgia St.,38,,away,#0032A0,#002880,Tennessee,30,,home,#FF8200,#cc6800,Georgia State,Tennessee,Sun Belt,Southeastern
+1,"Saturday, August 31, 2019",Air Force,48,,home,#0032A0,#002880,Colgate,7,,away,#862633,#6b1e28,Air Force,Colgate,Mountain West,
+1,"Saturday, August 31, 2019",Appalachian St.,42,,home,#010101,#000,ETSU,7,,away,#041E42,#031834,Appalachian State,ETSU,Sun Belt,
+1,"Saturday, August 31, 2019",Stanford,17,25.0,home,#9D2235,#7d1b2a,Northwestern,7,,away,#4E2A84,#3e2169,Stanford,Northwestern,Pac-12,Big Ten
+1,"Saturday, August 31, 2019",Boston College,35,,home,#862633,#6b1e28,Virginia Tech,28,,away,#861F41,#6b1834,Boston College,Virginia Tech,Atlantic Coast,Atlantic Coast
+1,"Saturday, August 31, 2019",Arkansas,20,,home,#9D2235,#7d1b2a,Portland St.,13,,away,#154734,#103829,Arkansas,Portland State,Southeastern,
+1,"Saturday, August 31, 2019",Texas Tech,45,,home,#DA291C,#ae2016,Montana St.,10,,away,#00205B,#001948,Texas Tech,Montana State,Big 12,
+1,"Saturday, August 31, 2019",UTSA,35,,home,#0C2340,#091c33,UIW,7,,away,#CB333B,#a2282f,UTSA,UIW,Conference USA,
+1,"Saturday, August 31, 2019",Troy,43,,home,#9D2235,#7d1b2a,Campbell,14,,away,#E87722,#b95f1b,Troy,Campbell,Sun Belt,
+1,"Saturday, August 31, 2019",New Mexico,39,,home,#BA0C2F,#940925,Sam Houston St.,31,,away,#FE5000,#cb4000,New Mexico,Sam Houston State,Mountain West,
+1,"Saturday, August 31, 2019",Syracuse,24,22.0,away,#DC4405,#b03604,Liberty,0,,home,#A6192E,#841424,Syracuse,Liberty,Atlantic Coast,Independents(FBS)
+1,"Saturday, August 31, 2019",Marshall,56,,home,#00B140,#008d33,VMI,17,,away,#E4002B,#b60022,Marshall,VMI,Conference USA,
+1,"Saturday, August 31, 2019",California,27,,home,#041E42,#031834,UC Davis,13,,away,#002855,#002044,California,UC Davis,Pac-12,
+1,"Saturday, August 31, 2019",Northern Ill.,24,,home,#BA0C2F,#940925,Illinois St.,10,,away,#C8102E,#a00c24,Northern Illinois,Illinois State,Mid-American,
+1,"Saturday, August 31, 2019",Old Dominion,24,,home,#003057,#002645,Norfolk St.,21,,away,#007A53,#006142,Old Dominion,Norfolk State,,
+1,"Saturday, August 31, 2019",Western Mich.,48,,home,#693F23,#54321c,Monmouth,13,,away,#041E42,#031834,Western Michigan,Monmouth,Mid-American,
+1,"Saturday, August 31, 2019",Kansas St.,49,,home,#582C83,#462368,Nicholls St.,14,,away,#A6192E,#841424,Kansas State,Nicholls State,Big 12,
+1,"Saturday, August 31, 2019",Southern Miss.,38,,home,#010101,#000,Alcorn,10,,away,#512D6D,#402457,Southern Miss,Alcorn,Conference USA,
+1,"Saturday, August 31, 2019",SMU,37,,away,#C8102E,#a00c24,Arkansas St.,30,,home,#C8102E,#a00c24,SMU,Arkansas State,American Athletic Conference,Sun Belt
+1,"Saturday, August 31, 2019",Baylor,56,,home,#1D3C34,#173029,SFA,17,,away,#5F259F,#4c1d7f,Baylor,SFA,Big 12,
+1,"Saturday, August 31, 2019",Virginia,30,,away,#232D4B,#1c243c,Pittsburgh,14,,home,#003594,#002a76,Virginia,Pittsburgh,Atlantic Coast,Atlantic Coast
+1,"Saturday, August 31, 2019",Wyoming,37,,home,#4E3629,#3e2b20,Missouri,31,,away,#010101,#000,Wyoming,Missouri,Mountain West,Southeastern
+1,"Saturday, August 31, 2019",Georgia,30,3.0,away,#DA291C,#ae2016,Vanderbilt,6,,home,#010101,#000,Georgia,Vanderbilt,Southeastern,Southeastern
+1,"Saturday, August 31, 2019",LSU,55,6.0,home,#582C83,#462368,Ga. Southern,3,,away,#041E42,#031834,LSU,Georgia Southern,Southeastern,Sun Belt
+1,"Saturday, August 31, 2019",Michigan,40,7.0,home,#041E42,#031834,Middle Tenn.,21,,away,#005EB8,#004b93,Michigan,Middle Tennessee,Big Ten,Conference USA
+1,"Saturday, August 31, 2019",North Texas,51,,home,#007A33,#006128,Abilene Christian,31,,away,#582C83,#462368,North Texas,Abilene Christian,Conference USA,
+1,"Saturday, August 31, 2019",Auburn,27,16.0,away,#0C2340,#091c33,Oregon,21,11.0,home,#173F35,#12322a,Auburn,Oregon,Southeastern,Pac-12
+1,"Saturday, August 31, 2019",Iowa,38,20.0,home,#010101,#000,Miami (OH),14,,away,#C8102E,#a00c24,Iowa,Miami (OH),Big Ten,Mid-American
+1,"Saturday, August 31, 2019",TCU,39,,home,#582C83,#462368,Ark.-Pine Bluff,7,,away,#010101,#000,TCU,Ark.-Pine Bluff,Big 12,
+1,"Saturday, August 31, 2019",La.-Monroe,31,,home,#6F2C3F,#582332,Grambling,9,,away,#010101,#000,Louisiana-Monroe,Grambling,Sun Belt,
+1,"Saturday, August 31, 2019",Texas,45,10.0,home,#CB6015,#a24c10,Louisiana Tech,14,,away,#003087,#00266c,Texas,Louisiana Tech,Big 12,Conference USA
+1,"Saturday, August 31, 2019",UTEP,36,,home,#041E42,#031834,Houston Baptist,34,,away,#003087,#00266c,UTEP,Houston Baptist,Conference USA,
+1,"Saturday, August 31, 2019",San Diego St.,6,,home,#A6192E,#841424,Weber St.,0,,away,#470A68,#380853,San Diego State,Weber State,Mountain West,
+1,"Saturday, August 31, 2019",Washington St.,58,23.0,home,#9D2235,#7d1b2a,New Mexico St.,7,,away,#861F41,#6b1834,Washington State,New Mexico State,Pac-12,
+1,"Saturday, August 31, 2019",UNLV,56,,home,#C8102E,#a00c24,Southern Utah,23,,away,#BA0C2F,#940925,UNLV,Southern Utah,Mountain West,
+1,"Saturday, August 31, 2019",Southern California,31,,home,#9D2235,#7d1b2a,Fresno St.,23,,away,#D50032,#aa0028,USC,Fresno State,Pac-12,Mountain West
+1,"Sunday, September 01, 2019",Oklahoma,49,4.0,home,#9D2235,#7d1b2a,Houston,31,,away,#C8102E,#a00c24,Oklahoma,Houston,Big 12,American Athletic Conference
+1,"Monday, September 02, 2019",Notre Dame,35,9.0,away,#0C2340,#091c33,Louisville,17,,home,#BA0C2F,#940925,Notre Dame,Louisville,Atlantic Coast,Atlantic Coast
+2,"Friday, September 06, 2019",Virginia,52,,home,#232D4B,#1c243c,William & Mary,17,,away,#284734,#203829,Virginia,William & Mary,Atlantic Coast,
+2,"Friday, September 06, 2019",Wake Forest,41,,away,#010101,#000,Rice,21,,home,#00205B,#001948,Wake Forest,Rice,Atlantic Coast,Conference USA
+2,"Friday, September 06, 2019",Boise St.,14,24.0,home,#0032A0,#002880,Marshall,7,,away,#00B140,#008d33,Boise State,Marshall,Mountain West,Conference USA
+2,"Friday, September 06, 2019",Arizona St.,19,,home,#7D2248,#641b39,Sacramento St.,7,,away,#115740,#0d4533,Arizona State,Sacramento State,Pac-12,
+2,"Saturday, September 07, 2019",Pittsburgh,20,,home,#003594,#002a76,Ohio,10,,away,#2C5234,#234129,Pittsburgh,Ohio,Atlantic Coast,Mid-American
+2,"Saturday, September 07, 2019",Missouri,38,,home,#010101,#000,West Virginia,7,,away,#002855,#002044,Missouri,West Virginia,Southeastern,Big 12
+2,"Saturday, September 07, 2019",Memphis,55,,home,#012169,#001a54,Southern U.,24,,away,#69B3E7,#548fb8,Memphis,Southern U.,American Athletic Conference,
+2,"Saturday, September 07, 2019",UAB,31,,away,#006341,#004f34,Akron,20,,home,#041E42,#031834,UAB,Akron,Conference USA,Mid-American
+2,"Saturday, September 07, 2019",Virginia Tech,31,,home,#861F41,#6b1834,Old Dominion,17,,away,#003057,#002645,Virginia Tech,Old Dominion,Atlantic Coast,
+2,"Saturday, September 07, 2019",Iowa,30,20.0,home,#010101,#000,Rutgers,0,,away,#C8102E,#a00c24,Iowa,Rutgers,Big Ten,Big Ten
+2,"Saturday, September 07, 2019",Purdue,42,,home,#010101,#000,Vanderbilt,24,,away,#010101,#000,Purdue,Vanderbilt,Big Ten,Southeastern
+2,"Saturday, September 07, 2019",Maryland,63,,home,#C8102E,#a00c24,Syracuse,20,21.0,away,#DC4405,#b03604,Maryland,Syracuse,Big Ten,Atlantic Coast
+2,"Saturday, September 07, 2019",Kent St.,26,,home,#00205B,#001948,Kennesaw St.,23,,away,#010101,#000,Kent State,Kennesaw State,Mid-American,
+2,"Saturday, September 07, 2019",Kansas St.,52,,home,#582C83,#462368,Bowling Green,0,,away,#FE5000,#cb4000,Kansas State,Bowling Green,Big 12,Mid-American
+2,"Saturday, September 07, 2019",Michigan,24,7.0,home,#041E42,#031834,Army West Point,21,,away,#010101,#000,Michigan,Army,Big Ten,Independents(FBS)
+2,"Saturday, September 07, 2019",Ohio St.,42,5.0,home,#BA0C2F,#940925,Cincinnati,0,,away,#C8102E,#a00c24,Ohio State,Cincinnati,Big Ten,American Athletic Conference
+2,"Saturday, September 07, 2019",South Carolina,72,,home,#862633,#6b1e28,Charleston So.,10,,away,#002855,#002044,South Carolina,Charleston So.,Southeastern,
+2,"Saturday, September 07, 2019",NC State,41,,home,#C8102E,#a00c24,Western Caro.,0,,away,#5F259F,#4c1d7f,North Carolina State,Western Caro.,Atlantic Coast,
+2,"Saturday, September 07, 2019",Utah,35,13.0,home,#BA0C2F,#940925,Northern Ill.,17,,away,#BA0C2F,#940925,Utah,Northern Illinois,Pac-12,Mid-American
+2,"Saturday, September 07, 2019",Ball St.,57,,home,#BA0C2F,#940925,Fordham,29,,away,#6F263D,#581e30,Ball State,Fordham,Mid-American,
+2,"Saturday, September 07, 2019",Georgia Tech,14,,home,#B3A369,#8f8254,South Fla.,10,,away,#006747,#005238,Georgia Tech,South Florida,Atlantic Coast,American Athletic Conference
+2,"Saturday, September 07, 2019",Miami (OH),48,,home,#C8102E,#a00c24,Tennessee Tech,17,,away,#753BBD,#5d2f97,Miami (OH),Tennessee Tech,Mid-American,
+2,"Saturday, September 07, 2019",Illinois,31,,away,#E04E39,#b33e2d,UConn,23,,home,#0C2340,#091c33,Illinois,Connecticut,Big Ten,
+2,"Saturday, September 07, 2019",Colorado,34,,home,#010101,#000,Nebraska,31,25.0,away,#C8102E,#a00c24,Colorado,Nebraska,Pac-12,Big Ten
+2,"Saturday, September 07, 2019",Appalachian St.,56,,home,#010101,#000,Charlotte,41,,away,#046A38,#03542c,Appalachian State,Charlotte,Sun Belt,Conference USA
+2,"Saturday, September 07, 2019",Mississippi St.,38,,home,#6F2C3F,#582332,Southern Miss.,15,,away,#010101,#000,Mississippi State,Southern Miss,Southeastern,Conference USA
+2,"Saturday, September 07, 2019",Indiana,52,,home,#9D2235,#7d1b2a,Eastern Ill.,0,,away,#003594,#002a76,Indiana,Eastern Illinois,Big Ten,
+2,"Saturday, September 07, 2019",Southern Ill.,45,,away,#6F263D,#581e30,Massachusetts,20,,home,#971B2F,#781525,Southern Illinois,Massachusetts,,Independents(FBS)
+2,"Saturday, September 07, 2019",Wisconsin,61,17.0,home,#BA0C2F,#940925,Central Mich.,0,,away,#6F263D,#581e30,Wisconsin,Central Michigan,Big Ten,Mid-American
+2,"Saturday, September 07, 2019",Boston College,45,,home,#862633,#6b1e28,Richmond,13,,away,#BA0C2F,#940925,Boston College,Richmond,Atlantic Coast,
+2,"Saturday, September 07, 2019",Clemson,24,1.0,home,#FF6720,#cc5219,Texas A&M,10,12.0,away,#500000,#400000,Clemson,Texas A&M,Atlantic Coast,Southeastern
+2,"Saturday, September 07, 2019",Louisiana Tech,20,,home,#003087,#00266c,Grambling,14,,away,#010101,#000,Louisiana Tech,Grambling,Conference USA,
+2,"Saturday, September 07, 2019",Colorado St.,38,,home,#2C5234,#234129,Western Ill.,13,,away,#500778,#400560,Colorado State,Western Illinois,Mountain West,
+2,"Saturday, September 07, 2019",Baylor,63,,home,#1D3C34,#173029,UTSA,14,,away,#0C2340,#091c33,Baylor,UTSA,Big 12,Conference USA
+2,"Saturday, September 07, 2019",Georgia,63,3.0,home,#DA291C,#ae2016,Murray St.,17,,away,#0C2340,#091c33,Georgia,Murray State,Southeastern,
+2,"Saturday, September 07, 2019",Alabama,62,2.0,home,#9D2235,#7d1b2a,New Mexico St.,10,,away,#861F41,#6b1834,Alabama,New Mexico State,Southeastern,
+2,"Saturday, September 07, 2019",San Diego St.,23,,away,#A6192E,#841424,UCLA,14,,home,#0072CE,#005ba4,San Diego State,UCLA,Mountain West,Pac-12
+2,"Saturday, September 07, 2019",Washington St.,59,22.0,home,#9D2235,#7d1b2a,Northern Colo.,17,,away,#002855,#002044,Washington State,Northern Colo.,Pac-12,
+2,"Saturday, September 07, 2019",Florida St.,45,,home,#782F40,#602533,La.-Monroe,44,,away,#6F2C3F,#582332,Florida State,Louisiana-Monroe,Atlantic Coast,Sun Belt
+2,"Saturday, September 07, 2019",Duke,45,,home,#002D72,#00245b,N.C. A&T,13,,away,#002D72,#00245b,Duke,N.C. A&T,Atlantic Coast,
+2,"Saturday, September 07, 2019",Ga. Southern,26,,home,#041E42,#031834,Maine,18,,away,#0C2340,#091c33,Georgia Southern,Maine,Sun Belt,
+2,"Saturday, September 07, 2019",East Carolina,48,,home,#582C83,#462368,Gardner-Webb,9,,away,#A6192E,#841424,East Carolina,Gardner-Webb,American Athletic Conference,
+2,"Saturday, September 07, 2019",Wyoming,23,,away,#4E3629,#3e2b20,Texas St.,14,,home,#572932,#452028,Wyoming,Texas State,Mountain West,Sun Belt
+2,"Saturday, September 07, 2019",Coastal Carolina,12,,away,#007377,#005c5f,Kansas,7,,home,#003DA5,#003084,Coastal Carolina,Kansas,Sun Belt,Big 12
+2,"Saturday, September 07, 2019",Oklahoma St.,56,,home,#E35205,#b54104,McNeese,14,,away,#003087,#00266c,Oklahoma State,McNeese,Big 12,
+2,"Saturday, September 07, 2019",SMU,49,,home,#C8102E,#a00c24,North Texas,27,,away,#007A33,#006128,SMU,North Texas,American Athletic Conference,Conference USA
+2,"Saturday, September 07, 2019",Georgia St.,48,,home,#0032A0,#002880,Furman,42,,away,#582C83,#462368,Georgia State,Furman,Sun Belt,
+2,"Saturday, September 07, 2019",Oklahoma,70,4.0,home,#9D2235,#7d1b2a,South Dakota,14,,away,#BA0C2F,#940925,Oklahoma,South Dakota,Big 12,
+2,"Saturday, September 07, 2019",Middle Tenn.,45,,home,#005EB8,#004b93,Tennessee St.,26,,away,#001489,#00106d,Middle Tennessee,Tennessee State,Conference USA,
+2,"Saturday, September 07, 2019",Western Ky.,20,,away,#C8102E,#a00c24,FIU,14,,home,#041E42,#031834,Western Kentucky,Florida International,Conference USA,Conference USA
+2,"Saturday, September 07, 2019",Louisville,42,,home,#BA0C2F,#940925,Eastern Ky.,0,,away,#6F263D,#581e30,Louisville,Eastern Kentucky,Atlantic Coast,
+2,"Saturday, September 07, 2019",South Alabama,37,,home,#BF0D3E,#980a31,Jackson St.,14,,away,#041E42,#031834,South Alabama,Jackson State,Sun Belt,
+2,"Saturday, September 07, 2019",BYU,29,,away,#002E5D,#00244a,Tennessee,26,,home,#FF8200,#cc6800,Brigham Young,Tennessee,Independents(FBS),Southeastern
+2,"Saturday, September 07, 2019",UCF,48,18.0,away,#010101,#000,Fla. Atlantic,14,,home,#002855,#002044,UCF,Florida Atlantic,American Athletic Conference,Conference USA
+2,"Saturday, September 07, 2019",Michigan St.,51,19.0,home,#173F35,#12322a,Western Mich.,17,,away,#693F23,#54321c,Michigan State,Western Michigan,Big Ten,Mid-American
+2,"Saturday, September 07, 2019",Oregon,77,16.0,home,#173F35,#12322a,Nevada,6,,away,#041E42,#031834,Oregon,Nevada,Pac-12,Mountain West
+2,"Saturday, September 07, 2019",Kentucky,38,,home,#0032A0,#002880,Eastern Mich.,17,,away,#046A38,#03542c,Kentucky,Eastern Michigan,Southeastern,Mid-American
+2,"Saturday, September 07, 2019",Florida,45,11.0,home,#003087,#00266c,UT Martin,0,,away,#0C2340,#091c33,Florida,UT Martin,Southeastern,
+2,"Saturday, September 07, 2019",Utah St.,62,,home,#00263A,#001e2e,Stony Brook,7,,away,#A6192E,#841424,Utah State,Stony Brook,Mountain West,
+2,"Saturday, September 07, 2019",Ole Miss,31,,home,#00205B,#001948,Arkansas,17,,away,#9D2235,#7d1b2a,Ole Miss,Arkansas,Southeastern,Southeastern
+2,"Saturday, September 07, 2019",LSU,45,6.0,away,#582C83,#462368,Texas,38,9.0,home,#CB6015,#a24c10,LSU,Texas,Southeastern,Big 12
+2,"Saturday, September 07, 2019",Penn St.,45,15.0,home,#041E42,#031834,Buffalo,13,,away,#0057B8,#004593,Penn State,Buffalo,Big Ten,Mid-American
+2,"Saturday, September 07, 2019",Auburn,24,10.0,home,#0C2340,#091c33,Tulane,6,,away,#006747,#005238,Auburn,Tulane,Southeastern,American Athletic Conference
+2,"Saturday, September 07, 2019",Louisiana,35,,home,#C8102E,#a00c24,Liberty,14,,away,#A6192E,#841424,Louisiana-Lafayette,Liberty,Sun Belt,Independents(FBS)
+2,"Saturday, September 07, 2019",Houston,37,,home,#C8102E,#a00c24,Prairie View,17,,away,#582C83,#462368,Houston,Prairie View,American Athletic Conference,
+2,"Saturday, September 07, 2019",North Carolina,28,,home,#7BAFD4,#628ca9,Miami (FL),25,,away,#154734,#103829,North Carolina,Miami (FL),Atlantic Coast,Atlantic Coast
+2,"Saturday, September 07, 2019",Texas Tech,38,,home,#DA291C,#ae2016,UTEP,3,,away,#041E42,#031834,Texas Tech,UTEP,Big 12,Conference USA
+2,"Saturday, September 07, 2019",Tulsa,34,,away,#002D72,#00245b,San Jose St.,16,,home,#0032A0,#002880,Tulsa,San Jose State,American Athletic Conference,Mountain West
+2,"Saturday, September 07, 2019",Arkansas St.,43,,away,#C8102E,#a00c24,UNLV,17,,home,#C8102E,#a00c24,Arkansas State,UNLV,Sun Belt,Mountain West
+2,"Saturday, September 07, 2019",Southern California,45,,home,#9D2235,#7d1b2a,Stanford,20,23.0,away,#9D2235,#7d1b2a,USC,Stanford,Pac-12,Pac-12
+2,"Saturday, September 07, 2019",California,20,,away,#041E42,#031834,Washington,19,14.0,home,#330072,#28005b,California,Washington,Pac-12,Pac-12
+2,"Saturday, September 07, 2019",Minnesota,38,,away,#861F41,#6b1834,Fresno St.,35,,home,#D50032,#aa0028,Minnesota,Fresno State,Big Ten,Mountain West
+2,"Saturday, September 07, 2019",Arizona,65,,home,#00205B,#001948,Northern Ariz.,41,,away,#00205B,#001948,Arizona,Northern Ariz.,Pac-12,
+2,"Sunday, September 08, 2019",Hawaii,31,,home,#154734,#103829,Oregon St.,28,,away,#DC4405,#b03604,Hawaii,Oregon State,Mountain West,Pac-12
+3,"Friday, September 13, 2019",Wake Forest,24,,home,#010101,#000,North Carolina,18,,away,#7BAFD4,#628ca9,Wake Forest,North Carolina,Atlantic Coast,Atlantic Coast
+3,"Friday, September 13, 2019",Kansas,48,,away,#003DA5,#003084,Boston College,24,,home,#862633,#6b1e28,Kansas,Boston College,Big 12,Atlantic Coast
+3,"Saturday, September 14, 2019",Washington St.,31,20.0,away,#9D2235,#7d1b2a,Houston,24,,home,#E51636,#b7112b,Washington State,Houston,Pac-12,American Athletic Conference
+3,"Saturday, September 14, 2019",Georgia,55,3.0,home,#DA291C,#ae2016,Arkansas St.,0,,away,#C8102E,#a00c24,Georgia,Arkansas State,Southeastern,Sun Belt
+3,"Saturday, September 14, 2019",Kansas St.,31,,away,#582C83,#462368,Mississippi St.,24,,home,#6F2C3F,#582332,Kansas State,Mississippi State,Big 12,Southeastern
+3,"Saturday, September 14, 2019",Cincinnati,35,,home,#C8102E,#a00c24,Miami (OH),13,,away,#C8102E,#a00c24,Cincinnati,Miami (OH),American Athletic Conference,Mid-American
+3,"Saturday, September 14, 2019",West Virginia,44,,home,#002855,#002044,NC State,27,,away,#C8102E,#a00c24,West Virginia,North Carolina State,Big 12,Atlantic Coast
+3,"Saturday, September 14, 2019",Penn St.,17,13.0,home,#041E42,#031834,Pittsburgh,10,,away,#003594,#002a76,Penn State,Pittsburgh,Big Ten,Atlantic Coast
+3,"Saturday, September 14, 2019",Eastern Mich.,34,,away,#046A38,#03542c,Illinois,31,,home,#E04E39,#b33e2d,Eastern Michigan,Illinois,Mid-American,Big Ten
+3,"Saturday, September 14, 2019",Tennessee,45,,home,#FF8200,#cc6800,Chattanooga,0,,away,#002855,#002044,Tennessee,Chattanooga,Southeastern,
+3,"Saturday, September 14, 2019",Ohio St.,51,6.0,away,#BA0C2F,#940925,Indiana,10,,home,#9D2235,#7d1b2a,Ohio State,Indiana,Big Ten,Big Ten
+3,"Saturday, September 14, 2019",Temple,20,,home,#b30838,#8f062c,Maryland,17,21.0,away,#C8102E,#a00c24,Temple,Maryland,American Athletic Conference,Big Ten
+3,"Saturday, September 14, 2019",Virginia Tech,24,,home,#861F41,#6b1834,Furman,17,,away,#582C83,#462368,Virginia Tech,Furman,Atlantic Coast,
+3,"Saturday, September 14, 2019",The Citadel,27,,away,#418FDE,#3472b1,Georgia Tech,24,,home,#B3A369,#8f8254,The Citadel,Georgia Tech,,Atlantic Coast
+3,"Saturday, September 14, 2019",Air Force,30,,away,#0032A0,#002880,Colorado,23,,home,#010101,#000,Air Force,Colorado,Mountain West,Pac-12
+3,"Saturday, September 14, 2019",Fla. Atlantic,41,,away,#002855,#002044,Ball St.,31,,home,#BA0C2F,#940925,Florida Atlantic,Ball State,Conference USA,Mid-American
+3,"Saturday, September 14, 2019",Coastal Carolina,46,,home,#007377,#005c5f,Norfolk St.,7,,away,#007A53,#006142,Coastal Carolina,Norfolk State,Sun Belt,
+3,"Saturday, September 14, 2019",Notre Dame,66,7.0,home,#0C2340,#091c33,New Mexico,14,,away,#BA0C2F,#940925,Notre Dame,New Mexico,Atlantic Coast,Mountain West
+3,"Saturday, September 14, 2019",Central Mich.,45,,home,#6F263D,#581e30,Akron,24,,away,#041E42,#031834,Central Michigan,Akron,Mid-American,Mid-American
+3,"Saturday, September 14, 2019",Northwestern,30,,home,#4E2A84,#3e2169,UNLV,14,,away,#C8102E,#a00c24,Northwestern,UNLV,Big Ten,Mountain West
+3,"Saturday, September 14, 2019",Alabama,47,2.0,away,#9D2235,#7d1b2a,South Carolina,23,,home,#862633,#6b1e28,Alabama,South Carolina,Southeastern,Southeastern
+3,"Saturday, September 14, 2019",Minnesota,35,,home,#861F41,#6b1834,Ga. Southern,32,,away,#041E42,#031834,Minnesota,Georgia Southern,Big Ten,Sun Belt
+3,"Saturday, September 14, 2019",Navy,42,,home,#00205B,#001948,East Carolina,10,,away,#582C83,#462368,Navy,East Carolina,American Athletic Conference,American Athletic Conference
+3,"Saturday, September 14, 2019",Memphis,42,,away,#012169,#001a54,South Alabama,6,,home,#BF0D3E,#980a31,Memphis,South Alabama,American Athletic Conference,Sun Belt
+3,"Saturday, September 14, 2019",BYU,30,,home,#002E5D,#00244a,Southern California,27,24.0,away,#9D2235,#7d1b2a,Brigham Young,USC,Independents(FBS),Pac-12
+3,"Saturday, September 14, 2019",Oklahoma St.,40,,away,#E35205,#b54104,Tulsa,21,,home,#002D72,#00245b,Oklahoma State,Tulsa,Big 12,American Athletic Conference
+3,"Saturday, September 14, 2019",Army West Point,31,,away,#010101,#000,UTSA,13,,home,#0C2340,#091c33,Army,UTSA,Independents(FBS),Conference USA
+3,"Saturday, September 14, 2019",UCF,45,17.0,home,#010101,#000,Stanford,27,,away,#9D2235,#7d1b2a,UCF,Stanford,American Athletic Conference,Pac-12
+3,"Saturday, September 14, 2019",Arkansas,55,,home,#9D2235,#7d1b2a,Colorado St.,34,,away,#2C5234,#234129,Arkansas,Colorado State,Southeastern,Mountain West
+3,"Saturday, September 14, 2019",Ole Miss,40,,home,#00205B,#001948,Southeastern La.,29,,away,#006341,#004f34,Ole Miss,Southeastern La.,Southeastern,
+3,"Saturday, September 14, 2019",Louisville,38,,away,#BA0C2F,#940925,Western Ky.,21,,home,#C8102E,#a00c24,Louisville,Western Kentucky,Atlantic Coast,Conference USA
+3,"Saturday, September 14, 2019",Arizona St.,10,,away,#7D2248,#641b39,Michigan St.,7,18.0,home,#173F35,#12322a,Arizona State,Michigan State,Pac-12,Big Ten
+3,"Saturday, September 14, 2019",Miami (FL),63,,home,#154734,#103829,Bethune-Cookman,0,,away,#6F263D,#581e30,Miami (FL),Bethune-Cookman,Atlantic Coast,
+3,"Saturday, September 14, 2019",Iowa,18,19.0,away,#010101,#000,Iowa St.,17,,home,#A6192E,#841424,Iowa,Iowa State,Big Ten,Big 12
+3,"Saturday, September 14, 2019",Oregon St.,45,,home,#DC4405,#b03604,Cal Poly,7,,away,#2C5234,#234129,Oregon State,Cal Poly,Pac-12,
+3,"Saturday, September 14, 2019",California,23,,home,#041E42,#031834,North Texas,17,,away,#007A33,#006128,California,North Texas,Pac-12,Conference USA
+3,"Saturday, September 14, 2019",Utah,31,11.0,home,#BA0C2F,#940925,Idaho St.,0,,away,#FF6720,#cc5219,Utah,Idaho State,Pac-12,
+3,"Saturday, September 14, 2019",Louisiana Tech,35,,away,#003087,#00266c,Bowling Green,7,,home,#FE5000,#cb4000,Louisiana Tech,Bowling Green,Conference USA,Mid-American
+3,"Saturday, September 14, 2019",Wyoming,21,,home,#4E3629,#3e2b20,Idaho,16,,away,#896C4C,#6d563c,Wyoming,Idaho,Mountain West,
+3,"Saturday, September 14, 2019",South Fla.,55,,home,#006747,#005238,South Carolina St.,16,,away,#862633,#6b1e28,South Florida,South Carolina State,American Athletic Conference,
+3,"Saturday, September 14, 2019",Southern Miss.,47,,away,#010101,#000,Troy,42,,home,#9D2235,#7d1b2a,Southern Miss,Troy,Conference USA,Sun Belt
+3,"Saturday, September 14, 2019",Charlotte,52,,home,#046A38,#03542c,Massachusetts,17,,away,#971B2F,#781525,Charlotte,Massachusetts,Conference USA,Independents(FBS)
+3,"Saturday, September 14, 2019",Liberty,35,,home,#A6192E,#841424,Buffalo,17,,away,#0057B8,#004593,Liberty,Buffalo,Independents(FBS),Mid-American
+3,"Saturday, September 14, 2019",Marshall,33,,home,#00B140,#008d33,Ohio,31,,away,#2C5234,#234129,Marshall,Ohio,Conference USA,Mid-American
+3,"Saturday, September 14, 2019",Florida,29,9.0,away,#003087,#00266c,Kentucky,21,,home,#0032A0,#002880,Florida,Kentucky,Southeastern,Southeastern
+3,"Saturday, September 14, 2019",Texas A&M,62,16.0,home,#500000,#400000,Lamar University,3,,away,#D50032,#aa0028,Texas A&M,Lamar University,Southeastern,
+3,"Saturday, September 14, 2019",Nevada,19,,home,#041E42,#031834,Weber St.,13,,away,#470A68,#380853,Nevada,Weber State,Mountain West,
+3,"Saturday, September 14, 2019",SMU,47,,home,#C8102E,#a00c24,Texas St.,17,,away,#572932,#452028,SMU,Texas State,American Athletic Conference,Sun Belt
+3,"Saturday, September 14, 2019",Auburn,55,8.0,home,#0C2340,#091c33,Kent St.,16,,away,#00205B,#001948,Auburn,Kent State,Southeastern,Mid-American
+3,"Saturday, September 14, 2019",Duke,41,,away,#002D72,#00245b,Middle Tenn.,18,,home,#005EB8,#004b93,Duke,Middle Tennessee,Atlantic Coast,Conference USA
+3,"Saturday, September 14, 2019",Western Mich.,57,,home,#693F23,#54321c,Georgia St.,10,,away,#0032A0,#002880,Western Michigan,Georgia State,Mid-American,Sun Belt
+3,"Saturday, September 14, 2019",Toledo,45,,home,#00205B,#001948,Murray St.,0,,away,#0C2340,#091c33,Toledo,Murray State,Mid-American,
+3,"Saturday, September 14, 2019",FIU,30,,home,#041E42,#031834,New Hampshire,17,,away,#041E42,#031834,Florida International,New Hampshire,Conference USA,
+3,"Saturday, September 14, 2019",LSU,65,4.0,home,#582C83,#462368,Northwestern St.,14,,away,#54209e,#43197e,LSU,Northwestern State,Southeastern,
+3,"Saturday, September 14, 2019",Clemson,41,1.0,away,#FF6720,#cc5219,Syracuse,6,,home,#DC4405,#b03604,Clemson,Syracuse,Atlantic Coast,Atlantic Coast
+3,"Saturday, September 14, 2019",Virginia,31,25.0,home,#232D4B,#1c243c,Florida St.,24,,away,#782F40,#602533,Virginia,Florida State,Atlantic Coast,Atlantic Coast
+3,"Saturday, September 14, 2019",Louisiana,77,,home,#C8102E,#a00c24,Texas Southern,6,,away,#6F263D,#581e30,Louisiana-Lafayette,Texas Southern,Sun Belt,
+3,"Saturday, September 14, 2019",Missouri,50,,home,#010101,#000,Southeast Mo. St.,0,,away,#010101,#000,Missouri,Southeast Mo. State,Southeastern,
+3,"Saturday, September 14, 2019",TCU,34,,away,#582C83,#462368,Purdue,13,,home,#010101,#000,TCU,Purdue,Big 12,Big Ten
+3,"Saturday, September 14, 2019",Washington,52,23.0,home,#330072,#28005b,Hawaii,20,,away,#154734,#103829,Washington,Hawaii,Pac-12,Mountain West
+3,"Sunday, September 15, 2019",Texas,48,12.0,away,#CB6015,#a24c10,Rice,13,,home,#00205B,#001948,Texas,Rice,Big 12,Conference USA
+3,"Sunday, September 15, 2019",Oklahoma,48,5.0,away,#9D2235,#7d1b2a,UCLA,14,,home,#0072CE,#005ba4,Oklahoma,UCLA,Big 12,Pac-12
+3,"Sunday, September 15, 2019",San Diego St.,31,,away,#A6192E,#841424,New Mexico St.,10,,home,#861F41,#6b1834,San Diego State,New Mexico State,Mountain West,
+3,"Sunday, September 15, 2019",Nebraska,44,,home,#C8102E,#a00c24,Northern Ill.,8,,away,#BA0C2F,#940925,Nebraska,Northern Illinois,Big Ten,Mid-American
+3,"Sunday, September 15, 2019",Tulane,58,,home,#006747,#005238,Missouri St.,6,,away,#6F2C3F,#582332,Tulane,Missouri State,American Athletic Conference,
+3,"Sunday, September 15, 2019",Boise St.,45,22.0,home,#0032A0,#002880,Portland St.,10,,away,#154734,#103829,Boise State,Portland State,Mountain West,
+3,"Sunday, September 15, 2019",Arizona,28,,home,#00205B,#001948,Texas Tech,14,,away,#DA291C,#ae2016,Arizona,Texas Tech,Pac-12,Big 12
+3,"Sunday, September 15, 2019",Oregon,35,15.0,home,#173F35,#12322a,Montana,3,,away,#6F2C3F,#582332,Oregon,Montana,Pac-12,
+4,"Thursday, September 19, 2019",Tulane,38,,home,#006747,#005238,Houston,31,,away,#C8102E,#a00c24,Tulane,Houston,American Athletic Conference,American Athletic Conference
+4,"Friday, September 20, 2019",Louisiana Tech,43,,home,#003087,#00266c,FIU,31,,away,#041E42,#031834,Louisiana Tech,Florida International,Conference USA,Conference USA
+4,"Friday, September 20, 2019",Boise St.,30,20.0,home,#0032A0,#002880,Air Force,19,,away,#0032A0,#002880,Boise State,Air Force,Mountain West,Mountain West
+4,"Friday, September 20, 2019",Southern California,30,,home,#9D2235,#7d1b2a,Utah,23,10.0,away,#BA0C2F,#940925,USC,Utah,Pac-12,Pac-12
+4,"Saturday, September 21, 2019",Wisconsin,35,13.0,home,#BA0C2F,#940925,Michigan,14,11.0,away,#041E42,#031834,Wisconsin,Michigan,Big Ten,Big Ten
+4,"Saturday, September 21, 2019",Army West Point,52,,home,#010101,#000,Morgan St.,21,,away,#FC4C02,#c93c01,Army,Morgan State,Independents(FBS),
+4,"Saturday, September 21, 2019",LSU,66,4.0,away,#582C83,#462368,Vanderbilt,38,,home,#010101,#000,LSU,Vanderbilt,Southeastern,Southeastern
+4,"Saturday, September 21, 2019",California,28,23.0,away,#041E42,#031834,Ole Miss,20,,home,#00205B,#001948,California,Ole Miss,Pac-12,Southeastern
+4,"Saturday, September 21, 2019",Michigan St.,31,,away,#173F35,#12322a,Northwestern,10,,home,#4E2A84,#3e2169,Michigan State,Northwestern,Big Ten,Big Ten
+4,"Saturday, September 21, 2019",Syracuse,52,,home,#DC4405,#b03604,Western Mich.,33,,away,#693F23,#54321c,Syracuse,Western Michigan,Atlantic Coast,Mid-American
+4,"Saturday, September 21, 2019",Wake Forest,49,,home,#010101,#000,Elon,7,,away,#76232F,#5e1c25,Wake Forest,Elon,Atlantic Coast,
+4,"Saturday, September 21, 2019",Iowa St.,72,,home,#A6192E,#841424,La.-Monroe,20,,away,#6F2C3F,#582332,Iowa State,Louisiana-Monroe,Big 12,Sun Belt
+4,"Saturday, September 21, 2019",Indiana,38,,home,#9D2235,#7d1b2a,UConn,3,,away,#0C2340,#091c33,Indiana,Connecticut,Big Ten,
+4,"Saturday, September 21, 2019",Boston College,30,,away,#862633,#6b1e28,Rutgers,16,,home,#C8102E,#a00c24,Boston College,Rutgers,Atlantic Coast,Big Ten
+4,"Saturday, September 21, 2019",Alabama,49,2.0,home,#9D2235,#7d1b2a,Southern Miss.,7,,away,#010101,#000,Alabama,Southern Miss,Southeastern,Conference USA
+4,"Saturday, September 21, 2019",Florida,34,9.0,home,#003087,#00266c,Tennessee,3,,away,#FF8200,#cc6800,Florida,Tennessee,Southeastern,Southeastern
+4,"Saturday, September 21, 2019",Coastal Carolina,62,,away,#007377,#005c5f,Massachusetts,28,,home,#971B2F,#781525,Coastal Carolina,Massachusetts,Sun Belt,Independents(FBS)
+4,"Saturday, September 21, 2019",Louisiana,45,,away,#C8102E,#a00c24,Ohio,25,,home,#2C5234,#234129,Louisiana-Lafayette,Ohio,Sun Belt,Mid-American
+4,"Saturday, September 21, 2019",Troy,35,,away,#9D2235,#7d1b2a,Akron,7,,home,#041E42,#031834,Troy,Akron,Sun Belt,Mid-American
+4,"Saturday, September 21, 2019",Eastern Mich.,34,,home,#046A38,#03542c,Central Conn. St.,29,,away,#003087,#00266c,Eastern Michigan,Central Conn. State,Mid-American,
+4,"Saturday, September 21, 2019",Florida St.,35,,home,#782F40,#602533,Louisville,24,,away,#BA0C2F,#940925,Florida State,Louisville,Atlantic Coast,Atlantic Coast
+4,"Saturday, September 21, 2019",Kent St.,62,,home,#00205B,#001948,Bowling Green,20,,away,#FE5000,#cb4000,Kent State,Bowling Green,Mid-American,Mid-American
+4,"Saturday, September 21, 2019",Appalachian St.,34,,away,#010101,#000,North Carolina,31,,home,#7BAFD4,#628ca9,Appalachian State,North Carolina,Sun Belt,Atlantic Coast
+4,"Saturday, September 21, 2019",Washington,45,22.0,away,#330072,#28005b,BYU,19,,home,#002E5D,#00244a,Washington,Brigham Young,Pac-12,Independents(FBS)
+4,"Saturday, September 21, 2019",Pittsburgh,35,,home,#003594,#002a76,UCF,34,15.0,away,#010101,#000,Pittsburgh,UCF,Atlantic Coast,American Athletic Conference
+4,"Saturday, September 21, 2019",UAB,35,,home,#006341,#004f34,South Alabama,3,,away,#BF0D3E,#980a31,UAB,South Alabama,Conference USA,Sun Belt
+4,"Saturday, September 21, 2019",Auburn,28,8.0,away,#0C2340,#091c33,Texas A&M,20,17.0,home,#500000,#400000,Auburn,Texas A&M,Southeastern,Southeastern
+4,"Saturday, September 21, 2019",SMU,41,,away,#C8102E,#a00c24,TCU,38,25.0,home,#582C83,#462368,SMU,TCU,American Athletic Conference,Big 12
+4,"Saturday, September 21, 2019",Ohio St.,76,6.0,home,#BA0C2F,#940925,Miami (OH),5,,away,#C8102E,#a00c24,Ohio State,Miami (OH),Big Ten,Mid-American
+4,"Saturday, September 21, 2019",Buffalo,38,,home,#0057B8,#004593,Temple,22,,away,#b30838,#8f062c,Buffalo,Temple,Mid-American,American Athletic Conference
+4,"Saturday, September 21, 2019",Tulsa,24,,home,#002D72,#00245b,Wyoming,21,,away,#4E3629,#3e2b20,Tulsa,Wyoming,American Athletic Conference,Mountain West
+4,"Saturday, September 21, 2019",Miami (FL),17,,home,#154734,#103829,Central Mich.,12,,away,#6F263D,#581e30,Miami (FL),Central Michigan,Atlantic Coast,Mid-American
+4,"Saturday, September 21, 2019",Mississippi St.,28,,home,#6F2C3F,#582332,Kentucky,13,,away,#0032A0,#002880,Mississippi State,Kentucky,Southeastern,Southeastern
+4,"Saturday, September 21, 2019",Missouri,34,,home,#010101,#000,South Carolina,14,,away,#862633,#6b1e28,Missouri,South Carolina,Southeastern,Southeastern
+4,"Saturday, September 21, 2019",West Virginia,29,,away,#002855,#002044,Kansas,24,,home,#003DA5,#003084,West Virginia,Kansas,Big 12,Big 12
+4,"Saturday, September 21, 2019",New Mexico,55,,home,#BA0C2F,#940925,New Mexico St.,52,,away,#861F41,#6b1834,New Mexico,New Mexico State,Mountain West,
+4,"Saturday, September 21, 2019",Liberty,62,,home,#A6192E,#841424,Hampton,27,,away,#0033A0,#002880,Liberty,Hampton,Independents(FBS),
+4,"Saturday, September 21, 2019",East Carolina,19,,home,#582C83,#462368,William & Mary,7,,away,#284734,#203829,East Carolina,William & Mary,American Athletic Conference,
+4,"Saturday, September 21, 2019",Fla. Atlantic,42,,home,#002855,#002044,Wagner,7,,away,#034638,#02382c,Florida Atlantic,Wagner,Conference USA,
+4,"Saturday, September 21, 2019",Arkansas St.,41,,home,#C8102E,#a00c24,Southern Ill.,28,,away,#6F263D,#581e30,Arkansas State,Southern Illinois,Sun Belt,
+4,"Saturday, September 21, 2019",Virginia,28,21.0,home,#232D4B,#1c243c,Old Dominion,17,,away,#003057,#002645,Virginia,Old Dominion,Atlantic Coast,
+4,"Saturday, September 21, 2019",Baylor,21,,away,#1D3C34,#173029,Rice,13,,home,#00205B,#001948,Baylor,Rice,Big 12,Conference USA
+4,"Saturday, September 21, 2019",NC State,34,,home,#C8102E,#a00c24,Ball St.,23,,away,#BA0C2F,#940925,North Carolina State,Ball State,Atlantic Coast,Mid-American
+4,"Saturday, September 21, 2019",Texas St.,37,,home,#572932,#452028,Georgia St.,34,,away,#0032A0,#002880,Texas State,Georgia State,Sun Belt,Sun Belt
+4,"Saturday, September 21, 2019",Oregon,21,16.0,away,#173F35,#12322a,Stanford,6,,home,#9D2235,#7d1b2a,Oregon,Stanford,Pac-12,Pac-12
+4,"Saturday, September 21, 2019",San Jose St.,31,,away,#0032A0,#002880,Arkansas,24,,home,#9D2235,#7d1b2a,San Jose State,Arkansas,Mountain West,Southeastern
+4,"Saturday, September 21, 2019",Clemson,52,1.0,home,#FF6720,#cc5219,Charlotte,10,,away,#046A38,#03542c,Clemson,Charlotte,Atlantic Coast,Conference USA
+4,"Saturday, September 21, 2019",Texas,36,12.0,home,#CB6015,#a24c10,Oklahoma St.,30,,away,#E35205,#b54104,Texas,Oklahoma State,Big 12,Big 12
+4,"Saturday, September 21, 2019",North Texas,45,,home,#007A33,#006128,UTSA,3,,away,#0C2340,#091c33,North Texas,UTSA,Conference USA,Conference USA
+4,"Saturday, September 21, 2019",Georgia,23,3.0,home,#DA291C,#ae2016,Notre Dame,17,7.0,away,#0C2340,#091c33,Georgia,Notre Dame,Southeastern,Atlantic Coast
+4,"Saturday, September 21, 2019",Nevada,37,,away,#041E42,#031834,UTEP,21,,home,#041E42,#031834,Nevada,UTEP,Mountain West,Conference USA
+4,"Saturday, September 21, 2019",Nebraska,42,,away,#C8102E,#a00c24,Illinois,38,,home,#E04E39,#b33e2d,Nebraska,Illinois,Big Ten,Big Ten
+4,"Saturday, September 21, 2019",Fresno St.,34,,home,#D50032,#aa0028,Sacramento St.,20,,away,#115740,#0d4533,Fresno State,Sacramento State,Mountain West,
+4,"Saturday, September 21, 2019",Colorado,34,,away,#010101,#000,Arizona St.,31,24.0,home,#7D2248,#641b39,Colorado,Arizona State,Pac-12,Pac-12
+4,"Saturday, September 21, 2019",Toledo,41,,away,#00205B,#001948,Colorado St.,35,,home,#2C5234,#234129,Toledo,Colorado State,Mid-American,Mountain West
+4,"Saturday, September 21, 2019",UCLA,67,,away,#0072CE,#005ba4,Washington St.,63,19.0,home,#9D2235,#7d1b2a,UCLA,Washington State,Pac-12,Pac-12
+4,"Saturday, September 21, 2019",Utah St.,23,,away,#00263A,#001e2e,San Diego St.,17,,home,#A6192E,#841424,Utah State,San Diego State,Mountain West,Mountain West
+4,"Sunday, September 22, 2019",Hawaii,35,,home,#154734,#103829,Central Ark.,16,,away,#582C83,#462368,Hawaii,Central Ark.,Mountain West,
+5,"Thursday, September 26, 2019",Memphis,35,,home,#012169,#001a54,Navy,23,,away,#00205B,#001948,Memphis,Navy,American Athletic Conference,American Athletic Conference
+5,"Friday, September 27, 2019",Duke,45,,away,#002D72,#00245b,Virginia Tech,10,,home,#861F41,#6b1834,Duke,Virginia Tech,Atlantic Coast,Atlantic Coast
+5,"Friday, September 27, 2019",Air Force,41,,home,#0032A0,#002880,San Jose St.,24,,away,#0032A0,#002880,Air Force,San Jose State,Mountain West,Mountain West
+5,"Friday, September 27, 2019",Penn St.,59,12.0,away,#041E42,#031834,Maryland,0,,home,#C8102E,#a00c24,Penn State,Maryland,Big Ten,Big Ten
+5,"Friday, September 27, 2019",Arizona St.,24,,away,#7D2248,#641b39,California,17,15.0,home,#041E42,#031834,Arizona State,California,Pac-12,Pac-12
+5,"Saturday, September 28, 2019",Vanderbilt,24,,home,#010101,#000,Northern Ill.,18,,away,#BA0C2F,#940925,Vanderbilt,Northern Illinois,Southeastern,Mid-American
+5,"Saturday, September 28, 2019",TCU,51,,home,#582C83,#462368,Kansas,14,,away,#003DA5,#003084,TCU,Kansas,Big 12,Big 12
+5,"Saturday, September 28, 2019",Michigan,52,20.0,home,#041E42,#031834,Rutgers,0,,away,#C8102E,#a00c24,Michigan,Rutgers,Big Ten,Big Ten
+5,"Saturday, September 28, 2019",Oklahoma,55,6.0,home,#9D2235,#7d1b2a,Texas Tech,16,,away,#DA291C,#ae2016,Oklahoma,Texas Tech,Big 12,Big 12
+5,"Saturday, September 28, 2019",Western Mich.,31,,home,#693F23,#54321c,Central Mich.,15,,away,#6F263D,#581e30,Western Michigan,Central Michigan,Mid-American,Mid-American
+5,"Saturday, September 28, 2019",Miami (OH),34,,home,#C8102E,#a00c24,Buffalo,20,,away,#0057B8,#004593,Miami (OH),Buffalo,Mid-American,Mid-American
+5,"Saturday, September 28, 2019",Toledo,28,,home,#00205B,#001948,BYU,21,,away,#002E5D,#00244a,Toledo,Brigham Young,Mid-American,Independents(FBS)
+5,"Saturday, September 28, 2019",Syracuse,41,,home,#DC4405,#b03604,Holy Cross,3,,away,#582C83,#462368,Syracuse,Holy Cross,Atlantic Coast,
+5,"Saturday, September 28, 2019",Iowa,48,14.0,home,#010101,#000,Middle Tenn.,3,,away,#005EB8,#004b93,Iowa,Middle Tennessee,Big Ten,Conference USA
+5,"Saturday, September 28, 2019",Texas A&M,31,23.0,away,#500000,#400000,Arkansas,27,,home,#9D2235,#7d1b2a,Texas A&M,Arkansas,Southeastern,Southeastern
+5,"Saturday, September 28, 2019",Wisconsin,24,8.0,home,#BA0C2F,#940925,Northwestern,15,,away,#4E2A84,#3e2169,Wisconsin,Northwestern,Big Ten,Big Ten
+5,"Saturday, September 28, 2019",Pittsburgh,17,,home,#003594,#002a76,Delaware,14,,away,#004C97,#003c78,Pittsburgh,Delaware,Atlantic Coast,
+5,"Saturday, September 28, 2019",Alabama,59,2.0,home,#9D2235,#7d1b2a,Ole Miss,31,,away,#00205B,#001948,Alabama,Ole Miss,Southeastern,Southeastern
+5,"Saturday, September 28, 2019",Minnesota,38,,away,#861F41,#6b1834,Purdue,31,,home,#010101,#000,Minnesota,Purdue,Big Ten,Big Ten
+5,"Saturday, September 28, 2019",Wake Forest,27,,away,#010101,#000,Boston College,24,,home,#862633,#6b1e28,Wake Forest,Boston College,Atlantic Coast,Atlantic Coast
+5,"Saturday, September 28, 2019",Temple,24,,home,#b30838,#8f062c,Georgia Tech,2,,away,#B3A369,#8f8254,Temple,Georgia Tech,American Athletic Conference,Atlantic Coast
+5,"Saturday, September 28, 2019",Baylor,23,,home,#1D3C34,#173029,Iowa St.,21,,away,#A6192E,#841424,Baylor,Iowa State,Big 12,Big 12
+5,"Saturday, September 28, 2019",Fla. Atlantic,45,,away,#002855,#002044,Charlotte,27,,home,#046A38,#03542c,Florida Atlantic,Charlotte,Conference USA,Conference USA
+5,"Saturday, September 28, 2019",Appalachian St.,56,,home,#010101,#000,Coastal Carolina,37,,away,#007377,#005c5f,Appalachian State,Coastal Carolina,Sun Belt,Sun Belt
+5,"Saturday, September 28, 2019",Clemson,21,1.0,away,#FF6720,#cc5219,North Carolina,20,,home,#7BAFD4,#628ca9,Clemson,North Carolina,Atlantic Coast,Atlantic Coast
+5,"Saturday, September 28, 2019",Washington,28,17.0,home,#330072,#28005b,Southern California,14,21.0,away,#9D2235,#7d1b2a,Washington,USC,Pac-12,Pac-12
+5,"Saturday, September 28, 2019",Michigan St.,40,25.0,home,#173F35,#12322a,Indiana,31,,away,#9D2235,#7d1b2a,Michigan State,Indiana,Big Ten,Big Ten
+5,"Saturday, September 28, 2019",Notre Dame,35,10.0,home,#0C2340,#091c33,Virginia,20,18.0,away,#232D4B,#1c243c,Notre Dame,Virginia,Atlantic Coast,Atlantic Coast
+5,"Saturday, September 28, 2019",Massachusetts,37,,home,#971B2F,#781525,Akron,29,,away,#041E42,#031834,Massachusetts,Akron,Independents(FBS),Mid-American
+5,"Saturday, September 28, 2019",SMU,48,,away,#C8102E,#a00c24,South Fla.,21,,home,#006747,#005238,SMU,South Florida,American Athletic Conference,American Athletic Conference
+5,"Saturday, September 28, 2019",Florida,38,9.0,home,#003087,#00266c,Towson,0,,away,#010101,#000,Florida,Towson,Southeastern,
+5,"Saturday, September 28, 2019",Cincinnati,52,,away,#C8102E,#a00c24,Marshall,14,,home,#00B140,#008d33,Cincinnati,Marshall,American Athletic Conference,Conference USA
+5,"Saturday, September 28, 2019",Arkansas St.,50,,away,#C8102E,#a00c24,Troy,43,,home,#9D2235,#7d1b2a,Arkansas State,Troy,Sun Belt,Sun Belt
+5,"Saturday, September 28, 2019",Liberty,17,,home,#A6192E,#841424,New Mexico,10,,away,#BA0C2F,#940925,Liberty,New Mexico,Independents(FBS),Mountain West
+5,"Saturday, September 28, 2019",East Carolina,24,,away,#582C83,#462368,Old Dominion,21,,home,#003057,#002645,East Carolina,Old Dominion,American Athletic Conference,
+5,"Saturday, September 28, 2019",Louisiana,37,,away,#C8102E,#a00c24,Ga. Southern,24,,home,#041E42,#031834,Louisiana-Lafayette,Georgia Southern,Sun Belt,Sun Belt
+5,"Saturday, September 28, 2019",Texas St.,24,,home,#572932,#452028,Nicholls St.,3,,away,#A6192E,#841424,Texas State,Nicholls State,Sun Belt,
+5,"Saturday, September 28, 2019",Oklahoma St.,26,,home,#E35205,#b54104,Kansas St.,13,24.0,away,#582C83,#462368,Oklahoma State,Kansas State,Big 12,Big 12
+5,"Saturday, September 28, 2019",Louisiana Tech,23,,away,#003087,#00266c,Rice,20,,home,#00205B,#001948,Louisiana Tech,Rice,Conference USA,Conference USA
+5,"Saturday, September 28, 2019",Western Ky.,20,,home,#C8102E,#a00c24,UAB,13,,away,#006341,#004f34,Western Kentucky,UAB,Conference USA,Conference USA
+5,"Saturday, September 28, 2019",La.-Monroe,30,,home,#6F2C3F,#582332,South Alabama,17,,away,#BF0D3E,#980a31,Louisiana-Monroe,South Alabama,Sun Belt,Sun Belt
+5,"Saturday, September 28, 2019",Auburn,56,7.0,home,#0C2340,#091c33,Mississippi St.,23,,away,#6F2C3F,#582332,Auburn,Mississippi State,Southeastern,Southeastern
+5,"Saturday, September 28, 2019",UCF,56,22.0,home,#010101,#000,UConn,21,,away,#0C2340,#091c33,UCF,Connecticut,American Athletic Conference,
+5,"Saturday, September 28, 2019",Stanford,31,,away,#9D2235,#7d1b2a,Oregon St.,28,,home,#DC4405,#b03604,Stanford,Oregon State,Pac-12,Pac-12
+5,"Saturday, September 28, 2019",Southern Miss.,31,,home,#010101,#000,UTEP,13,,away,#041E42,#031834,Southern Miss,UTEP,Conference USA,Conference USA
+5,"Saturday, September 28, 2019",South Carolina,24,,home,#862633,#6b1e28,Kentucky,7,,away,#0032A0,#002880,South Carolina,Kentucky,Southeastern,Southeastern
+5,"Saturday, September 28, 2019",Utah St.,34,,home,#00263A,#001e2e,Colorado St.,24,,away,#2C5234,#234129,Utah State,Colorado State,Mountain West,Mountain West
+5,"Saturday, September 28, 2019",Ohio St.,48,5.0,away,#BA0C2F,#940925,Nebraska,7,,home,#C8102E,#a00c24,Ohio State,Nebraska,Big Ten,Big Ten
+5,"Saturday, September 28, 2019",Florida St.,31,,home,#782F40,#602533,NC State,13,,away,#C8102E,#a00c24,Florida State,North Carolina State,Atlantic Coast,Atlantic Coast
+5,"Saturday, September 28, 2019",Wyoming,53,,home,#4E3629,#3e2b20,UNLV,17,,away,#C8102E,#a00c24,Wyoming,UNLV,Mountain West,Mountain West
+5,"Saturday, September 28, 2019",Houston,46,,away,#C8102E,#a00c24,North Texas,25,,home,#007A33,#006128,Houston,North Texas,American Athletic Conference,Conference USA
+5,"Saturday, September 28, 2019",Fresno St.,30,,away,#D50032,#aa0028,New Mexico St.,17,,home,#861F41,#6b1834,Fresno State,New Mexico State,Mountain West,
+5,"Saturday, September 28, 2019",Utah,38,19.0,home,#BA0C2F,#940925,Washington St.,13,,away,#9D2235,#7d1b2a,Utah,Washington State,Pac-12,Pac-12
+5,"Saturday, September 28, 2019",Arizona,20,,home,#00205B,#001948,UCLA,17,,away,#0072CE,#005ba4,Arizona,UCLA,Pac-12,Pac-12
+5,"Saturday, September 28, 2019",Hawaii,54,,away,#154734,#103829,Nevada,3,,home,#041E42,#031834,Hawaii,Nevada,Mountain West,Mountain West
+6,"Thursday, October 03, 2019",Ga. Southern,20,,away,#041E42,#031834,South Alabama,17,,home,#BF0D3E,#980a31,Georgia Southern,South Alabama,Sun Belt,Sun Belt
+6,"Thursday, October 03, 2019",Temple,27,,away,#b30838,#8f062c,East Carolina,17,,home,#582C83,#462368,Temple,East Carolina,American Athletic Conference,American Athletic Conference
+6,"Friday, October 04, 2019",Cincinnati,27,,home,#C8102E,#a00c24,UCF,24,18.0,away,#010101,#000,Cincinnati,UCF,American Athletic Conference,American Athletic Conference
+6,"Friday, October 04, 2019",San Jose St.,32,,home,#0032A0,#002880,New Mexico,21,,away,#BA0C2F,#940925,San Jose State,New Mexico,Mountain West,Mountain West
+6,"Saturday, October 05, 2019",Texas Tech,45,,home,#DA291C,#ae2016,Oklahoma St.,35,21.0,away,#E35205,#b54104,Texas Tech,Oklahoma State,Big 12,Big 12
+6,"Saturday, October 05, 2019",Wisconsin,48,8.0,home,#BA0C2F,#940925,Kent St.,0,,away,#00205B,#001948,Wisconsin,Kent State,Big Ten,Mid-American
+6,"Saturday, October 05, 2019",Maryland,48,,away,#C8102E,#a00c24,Rutgers,7,,home,#C8102E,#a00c24,Maryland,Rutgers,Big Ten,Big Ten
+6,"Saturday, October 05, 2019",LSU,42,5.0,home,#582C83,#462368,Utah St.,6,,away,#00263A,#001e2e,LSU,Utah State,Southeastern,Mountain West
+6,"Saturday, October 05, 2019",Penn St.,35,12.0,home,#041E42,#031834,Purdue,7,,away,#010101,#000,Penn State,Purdue,Big Ten,Big Ten
+6,"Saturday, October 05, 2019",Oklahoma,45,6.0,away,#9D2235,#7d1b2a,Kansas,20,,home,#003DA5,#003084,Oklahoma,Kansas,Big 12,Big 12
+6,"Saturday, October 05, 2019",Tulane,42,,away,#006747,#005238,Army West Point,33,,home,#010101,#000,Tulane,Army,American Athletic Conference,Independents(FBS)
+6,"Saturday, October 05, 2019",South Fla.,48,,away,#006747,#005238,UConn,22,,home,#0C2340,#091c33,South Florida,Connecticut,American Athletic Conference,
+6,"Saturday, October 05, 2019",Michigan,10,19.0,home,#041E42,#031834,Iowa,3,14.0,away,#010101,#000,Michigan,Iowa,Big Ten,Big Ten
+6,"Saturday, October 05, 2019",Louisville,41,,home,#BA0C2F,#940925,Boston College,39,,away,#862633,#6b1e28,Louisville,Boston College,Atlantic Coast,Atlantic Coast
+6,"Saturday, October 05, 2019",Iowa St.,49,,home,#A6192E,#841424,TCU,24,,away,#582C83,#462368,Iowa State,TCU,Big 12,Big 12
+6,"Saturday, October 05, 2019",Central Mich.,42,,home,#6F263D,#581e30,Eastern Mich.,16,,away,#046A38,#03542c,Central Michigan,Eastern Michigan,Mid-American,Mid-American
+6,"Saturday, October 05, 2019",Virginia Tech,42,,away,#861F41,#6b1834,Miami (FL),35,,home,#154734,#103829,Virginia Tech,Miami (FL),Atlantic Coast,Atlantic Coast
+6,"Saturday, October 05, 2019",Georgia St.,52,,home,#0032A0,#002880,Arkansas St.,38,,away,#C8102E,#a00c24,Georgia State,Arkansas State,Sun Belt,Sun Belt
+6,"Saturday, October 05, 2019",Ball St.,27,,away,#BA0C2F,#940925,Northern Ill.,20,,home,#BA0C2F,#940925,Ball State,Northern Illinois,Mid-American,Mid-American
+6,"Saturday, October 05, 2019",Notre Dame,52,9.0,home,#0C2340,#091c33,Bowling Green,0,,away,#FE5000,#cb4000,Notre Dame,Bowling Green,Atlantic Coast,Mid-American
+6,"Saturday, October 05, 2019",Ohio,21,,away,#2C5234,#234129,Buffalo,20,,home,#0057B8,#004593,Ohio,Buffalo,Mid-American,Mid-American
+6,"Saturday, October 05, 2019",Navy,34,,home,#00205B,#001948,Air Force,25,,away,#0032A0,#002880,Navy,Air Force,American Athletic Conference,Mountain West
+6,"Saturday, October 05, 2019",Middle Tenn.,24,,home,#005EB8,#004b93,Marshall,13,,away,#00B140,#008d33,Middle Tennessee,Marshall,Conference USA,Conference USA
+6,"Saturday, October 05, 2019",Toledo,31,,home,#00205B,#001948,Western Mich.,24,,away,#693F23,#54321c,Toledo,Western Michigan,Mid-American,Mid-American
+6,"Saturday, October 05, 2019",Florida,24,10.0,home,#003087,#00266c,Auburn,13,7.0,away,#0C2340,#091c33,Florida,Auburn,Southeastern,Southeastern
+6,"Saturday, October 05, 2019",Texas,42,11.0,away,#CB6015,#a24c10,West Virginia,31,,home,#002855,#002044,Texas,West Virginia,Big 12,Big 12
+6,"Saturday, October 05, 2019",Minnesota,40,,home,#861F41,#6b1834,Illinois,17,,away,#E04E39,#b33e2d,Minnesota,Illinois,Big Ten,Big Ten
+6,"Saturday, October 05, 2019",Baylor,31,,away,#1D3C34,#173029,Kansas St.,12,,home,#582C83,#462368,Baylor,Kansas State,Big 12,Big 12
+6,"Saturday, October 05, 2019",Memphis,52,,away,#012169,#001a54,La.-Monroe,33,,home,#6F2C3F,#582332,Memphis,Louisiana-Monroe,American Athletic Conference,Sun Belt
+6,"Saturday, October 05, 2019",North Carolina,38,,away,#7BAFD4,#628ca9,Georgia Tech,22,,home,#B3A369,#8f8254,North Carolina,Georgia Tech,Atlantic Coast,Atlantic Coast
+6,"Saturday, October 05, 2019",Nebraska,13,,home,#C8102E,#a00c24,Northwestern,10,,away,#4E2A84,#3e2169,Nebraska,Northwestern,Big Ten,Big Ten
+6,"Saturday, October 05, 2019",Missouri,42,,home,#010101,#000,Troy,10,,away,#9D2235,#7d1b2a,Missouri,Troy,Southeastern,Sun Belt
+6,"Saturday, October 05, 2019",Arizona,35,,away,#00205B,#001948,Colorado,30,,home,#010101,#000,Arizona,Colorado,Pac-12,Pac-12
+6,"Saturday, October 05, 2019",Western Ky.,20,,away,#C8102E,#a00c24,Old Dominion,3,,home,#003057,#002645,Western Kentucky,Old Dominion,Conference USA,
+6,"Saturday, October 05, 2019",UAB,35,,home,#006341,#004f34,Rice,20,,away,#00205B,#001948,UAB,Rice,Conference USA,Conference USA
+6,"Saturday, October 05, 2019",FIU,44,,home,#041E42,#031834,Massachusetts,0,,away,#971B2F,#781525,Florida International,Massachusetts,Conference USA,Independents(FBS)
+6,"Saturday, October 05, 2019",Georgia,43,3.0,away,#DA291C,#ae2016,Tennessee,14,,home,#FF8200,#cc6800,Georgia,Tennessee,Southeastern,Southeastern
+6,"Saturday, October 05, 2019",Ole Miss,31,,home,#00205B,#001948,Vanderbilt,6,,away,#010101,#000,Ole Miss,Vanderbilt,Southeastern,Southeastern
+6,"Saturday, October 05, 2019",Ohio St.,34,4.0,home,#BA0C2F,#940925,Michigan St.,10,25.0,away,#173F35,#12322a,Ohio State,Michigan State,Big Ten,Big Ten
+6,"Saturday, October 05, 2019",SMU,43,24.0,home,#C8102E,#a00c24,Tulsa,37,,away,#002D72,#00245b,SMU,Tulsa,American Athletic Conference,American Athletic Conference
+6,"Saturday, October 05, 2019",UTSA,26,,away,#0C2340,#091c33,UTEP,16,,home,#041E42,#031834,UTSA,UTEP,Conference USA,Conference USA
+6,"Saturday, October 05, 2019",Liberty,20,,away,#A6192E,#841424,New Mexico St.,13,,home,#861F41,#6b1834,Liberty,New Mexico State,Independents(FBS),
+6,"Saturday, October 05, 2019",Pittsburgh,33,,away,#003594,#002a76,Duke,30,,home,#002D72,#00245b,Pittsburgh,Duke,Atlantic Coast,Atlantic Coast
+6,"Saturday, October 05, 2019",Oregon,17,13.0,home,#173F35,#12322a,California,7,,away,#041E42,#031834,Oregon,California,Pac-12,Pac-12
+6,"Saturday, October 05, 2019",Oregon St.,48,,away,#DC4405,#b03604,UCLA,31,,home,#0072CE,#005ba4,Oregon State,UCLA,Pac-12,Pac-12
+6,"Saturday, October 05, 2019",San Diego St.,24,,away,#A6192E,#841424,Colorado St.,10,,home,#2C5234,#234129,San Diego State,Colorado State,Mountain West,Mountain West
+6,"Saturday, October 05, 2019",Boise St.,38,16.0,away,#0032A0,#002880,UNLV,13,,home,#C8102E,#a00c24,Boise State,UNLV,Mountain West,Mountain West
+6,"Saturday, October 05, 2019",Stanford,23,,home,#9D2235,#7d1b2a,Washington,13,15.0,away,#330072,#28005b,Stanford,Washington,Pac-12,Pac-12
+7,"Wednesday, October 09, 2019",Appalachian St.,17,,away,#010101,#000,Louisiana,7,,home,#C8102E,#a00c24,Appalachian State,Louisiana-Lafayette,Sun Belt,Sun Belt
+7,"Thursday, October 10, 2019",NC State,16,,home,#C8102E,#a00c24,Syracuse,10,,away,#DC4405,#b03604,North Carolina State,Syracuse,Atlantic Coast,Atlantic Coast
+7,"Thursday, October 10, 2019",La.-Monroe,24,,away,#6F2C3F,#582332,Texas St.,14,,home,#572932,#452028,Louisiana-Monroe,Texas State,Sun Belt,Sun Belt
+7,"Friday, October 11, 2019",Miami (FL),17,,home,#154734,#103829,Virginia,9,20.0,away,#232D4B,#1c243c,Miami (FL),Virginia,Atlantic Coast,Atlantic Coast
+7,"Friday, October 11, 2019",Colorado St.,35,,away,#2C5234,#234129,New Mexico,21,,home,#BA0C2F,#940925,Colorado State,New Mexico,Mountain West,Mountain West
+7,"Friday, October 11, 2019",Oregon,45,13.0,home,#173F35,#12322a,Colorado,3,,away,#010101,#000,Oregon,Colorado,Pac-12,Pac-12
+7,"Saturday, October 12, 2019",South Carolina,20,,away,#862633,#6b1e28,Georgia,17,3.0,home,#DA291C,#ae2016,South Carolina,Georgia,Southeastern,Southeastern
+7,"Saturday, October 12, 2019",Temple,30,,home,#b30838,#8f062c,Memphis,28,23.0,away,#012169,#001a54,Temple,Memphis,American Athletic Conference,American Athletic Conference
+7,"Saturday, October 12, 2019",Oklahoma,34,6.0,away,#9D2235,#7d1b2a,Texas,27,11.0,home,#CB6015,#a24c10,Oklahoma,Texas,Big 12,Big 12
+7,"Saturday, October 12, 2019",Bowling Green,20,,home,#FE5000,#cb4000,Toledo,7,,away,#00205B,#001948,Bowling Green,Toledo,Mid-American,Mid-American
+7,"Saturday, October 12, 2019",Michigan,42,16.0,away,#041E42,#031834,Illinois,25,,home,#E04E39,#b33e2d,Michigan,Illinois,Big Ten,Big Ten
+7,"Saturday, October 12, 2019",Western Mich.,38,,home,#693F23,#54321c,Miami (OH),16,,away,#C8102E,#a00c24,Western Michigan,Miami (OH),Mid-American,Mid-American
+7,"Saturday, October 12, 2019",Tennessee,20,,home,#FF8200,#cc6800,Mississippi St.,10,,away,#6F2C3F,#582332,Tennessee,Mississippi State,Southeastern,Southeastern
+7,"Saturday, October 12, 2019",Purdue,40,,home,#010101,#000,Maryland,14,,away,#C8102E,#a00c24,Purdue,Maryland,Big Ten,Big Ten
+7,"Saturday, October 12, 2019",Indiana,35,,home,#9D2235,#7d1b2a,Rutgers,0,,away,#C8102E,#a00c24,Indiana,Rutgers,Big Ten,Big Ten
+7,"Saturday, October 12, 2019",Duke,41,,home,#002D72,#00245b,Georgia Tech,23,,away,#B3A369,#8f8254,Duke,Georgia Tech,Atlantic Coast,Atlantic Coast
+7,"Saturday, October 12, 2019",Ball St.,29,,away,#BA0C2F,#940925,Eastern Mich.,23,,home,#046A38,#03542c,Ball State,Eastern Michigan,Mid-American,Mid-American
+7,"Saturday, October 12, 2019",Marshall,31,,home,#00B140,#008d33,Old Dominion,17,,away,#003057,#002645,Marshall,Old Dominion,Conference USA,
+7,"Saturday, October 12, 2019",Central Mich.,42,,home,#6F263D,#581e30,New Mexico St.,28,,away,#861F41,#6b1834,Central Michigan,New Mexico State,Mid-American,
+7,"Saturday, October 12, 2019",Kent St.,26,,away,#00205B,#001948,Akron,3,,home,#041E42,#031834,Kent State,Akron,Mid-American,Mid-American
+7,"Saturday, October 12, 2019",Northern Ill.,39,,away,#BA0C2F,#940925,Ohio,36,,home,#2C5234,#234129,Northern Illinois,Ohio,Mid-American,Mid-American
+7,"Saturday, October 12, 2019",Cincinnati,38,25.0,away,#C8102E,#a00c24,Houston,23,,home,#C8102E,#a00c24,Cincinnati,Houston,American Athletic Conference,American Athletic Conference
+7,"Saturday, October 12, 2019",Clemson,45,2.0,home,#FF6720,#cc5219,Florida St.,14,,away,#782F40,#602533,Clemson,Florida State,Atlantic Coast,Atlantic Coast
+7,"Saturday, October 12, 2019",South Fla.,27,,home,#006747,#005238,BYU,23,,away,#002E5D,#00244a,South Florida,Brigham Young,American Athletic Conference,Independents(FBS)
+7,"Saturday, October 12, 2019",Alabama,47,1.0,away,#9D2235,#7d1b2a,Texas A&M,28,24.0,home,#500000,#400000,Alabama,Texas A&M,Southeastern,Southeastern
+7,"Saturday, October 12, 2019",Arizona St.,38,18.0,home,#7D2248,#641b39,Washington St.,34,,away,#9D2235,#7d1b2a,Arizona State,Washington State,Pac-12,Pac-12
+7,"Saturday, October 12, 2019",Wisconsin,38,8.0,home,#BA0C2F,#940925,Michigan St.,0,,away,#173F35,#12322a,Wisconsin,Michigan State,Big Ten,Big Ten
+7,"Saturday, October 12, 2019",Tulane,49,,home,#006747,#005238,UConn,7,,away,#0C2340,#091c33,Tulane,Connecticut,American Athletic Conference,
+7,"Saturday, October 12, 2019",Fla. Atlantic,28,,home,#002855,#002044,Middle Tenn.,13,,away,#005EB8,#004b93,Florida Atlantic,Middle Tennessee,Conference USA,Conference USA
+7,"Saturday, October 12, 2019",Nevada,41,,home,#041E42,#031834,San Jose St.,38,,away,#0032A0,#002880,Nevada,San Jose State,Mountain West,Mountain West
+7,"Saturday, October 12, 2019",UNLV,34,,away,#C8102E,#a00c24,Vanderbilt,10,,home,#010101,#000,UNLV,Vanderbilt,Mountain West,Southeastern
+7,"Saturday, October 12, 2019",Virginia Tech,34,,home,#861F41,#6b1834,Rhode Island,17,,away,#041E42,#031834,Virginia Tech,Rhode Island,Atlantic Coast,
+7,"Saturday, October 12, 2019",Iowa St.,38,,away,#A6192E,#841424,West Virginia,14,,home,#002855,#002044,Iowa State,West Virginia,Big 12,Big 12
+7,"Saturday, October 12, 2019",Baylor,33,22.0,home,#1D3C34,#173029,Texas Tech,30,,away,#DA291C,#ae2016,Baylor,Texas Tech,Big 12,Big 12
+7,"Saturday, October 12, 2019",Georgia St.,31,,away,#0032A0,#002880,Coastal Carolina,21,,home,#007377,#005c5f,Georgia State,Coastal Carolina,Sun Belt,Sun Belt
+7,"Saturday, October 12, 2019",UAB,33,,away,#006341,#004f34,UTSA,14,,home,#0C2340,#091c33,UAB,UTSA,Conference USA,Conference USA
+7,"Saturday, October 12, 2019",Southern Miss.,45,,home,#010101,#000,North Texas,27,,away,#007A33,#006128,Southern Miss,North Texas,Conference USA,Conference USA
+7,"Saturday, October 12, 2019",FIU,48,,home,#041E42,#031834,Charlotte,23,,away,#046A38,#03542c,Florida International,Charlotte,Conference USA,Conference USA
+7,"Saturday, October 12, 2019",Louisiana Tech,69,,home,#003087,#00266c,Massachusetts,21,,away,#971B2F,#781525,Louisiana Tech,Massachusetts,Conference USA,Independents(FBS)
+7,"Saturday, October 12, 2019",Missouri,38,,home,#010101,#000,Ole Miss,27,,away,#00205B,#001948,Missouri,Ole Miss,Southeastern,Southeastern
+7,"Saturday, October 12, 2019",Western Ky.,17,,home,#C8102E,#a00c24,Army West Point,8,,away,#010101,#000,Western Kentucky,Army,Conference USA,Independents(FBS)
+7,"Saturday, October 12, 2019",Air Force,43,,home,#0032A0,#002880,Fresno St.,24,,away,#D50032,#aa0028,Air Force,Fresno State,Mountain West,Mountain West
+7,"Saturday, October 12, 2019",Penn St.,17,10.0,away,#041E42,#031834,Iowa,12,17.0,home,#010101,#000,Penn State,Iowa,Big Ten,Big Ten
+7,"Saturday, October 12, 2019",Navy,45,,away,#00205B,#001948,Tulsa,17,,home,#002D72,#00245b,Navy,Tulsa,American Athletic Conference,American Athletic Conference
+7,"Saturday, October 12, 2019",Minnesota,34,,home,#861F41,#6b1834,Nebraska,7,,away,#C8102E,#a00c24,Minnesota,Nebraska,Big Ten,Big Ten
+7,"Saturday, October 12, 2019",Louisville,62,,away,#BA0C2F,#940925,Wake Forest,59,19.0,home,#010101,#000,Louisville,Wake Forest,Atlantic Coast,Atlantic Coast
+7,"Saturday, October 12, 2019",Kentucky,24,,home,#0032A0,#002880,Arkansas,20,,away,#9D2235,#7d1b2a,Kentucky,Arkansas,Southeastern,Southeastern
+7,"Saturday, October 12, 2019",Notre Dame,30,9.0,home,#0C2340,#091c33,Southern California,27,,away,#9D2235,#7d1b2a,Notre Dame,USC,Atlantic Coast,Pac-12
+7,"Saturday, October 12, 2019",Utah,52,15.0,away,#BA0C2F,#940925,Oregon St.,7,,home,#DC4405,#b03604,Utah,Oregon State,Pac-12,Pac-12
+7,"Saturday, October 12, 2019",LSU,42,5.0,home,#582C83,#462368,Florida,28,7.0,away,#003087,#00266c,LSU,Florida,Southeastern,Southeastern
+7,"Saturday, October 12, 2019",Boise St.,59,14.0,home,#0032A0,#002880,Hawaii,37,,away,#154734,#103829,Boise State,Hawaii,Mountain West,Mountain West
+7,"Saturday, October 12, 2019",San Diego St.,26,,home,#A6192E,#841424,Wyoming,22,,away,#4E3629,#3e2b20,San Diego State,Wyoming,Mountain West,Mountain West
+7,"Saturday, October 12, 2019",Washington,51,,away,#330072,#28005b,Arizona,27,,home,#00205B,#001948,Washington,Arizona,Pac-12,Pac-12
+8,"Wednesday, October 16, 2019",Troy,37,,home,#9D2235,#7d1b2a,South Alabama,13,,away,#BF0D3E,#980a31,Troy,South Alabama,Sun Belt,Sun Belt
+8,"Thursday, October 17, 2019",Louisiana,37,,away,#C8102E,#a00c24,Arkansas St.,20,,home,#C8102E,#a00c24,Louisiana-Lafayette,Arkansas State,Sun Belt,Sun Belt
+8,"Thursday, October 17, 2019",UCLA,34,,away,#0072CE,#005ba4,Stanford,16,,home,#9D2235,#7d1b2a,UCLA,Stanford,Pac-12,Pac-12
+8,"Friday, October 18, 2019",Marshall,36,,away,#00B140,#008d33,Fla. Atlantic,31,,home,#002855,#002044,Marshall,Florida Atlantic,Conference USA,Conference USA
+8,"Friday, October 18, 2019",Pittsburgh,27,,away,#003594,#002a76,Syracuse,20,,home,#DC4405,#b03604,Pittsburgh,Syracuse,Atlantic Coast,Atlantic Coast
+8,"Friday, October 18, 2019",Ohio St.,52,4.0,away,#BA0C2F,#940925,Northwestern,3,,home,#4E2A84,#3e2169,Ohio State,Northwestern,Big Ten,Big Ten
+8,"Friday, October 18, 2019",Fresno St.,56,,home,#D50032,#aa0028,UNLV,27,,away,#C8102E,#a00c24,Fresno State,UNLV,Mountain West,Mountain West
+8,"Saturday, October 19, 2019",Illinois,24,,home,#E04E39,#b33e2d,Wisconsin,23,6.0,away,#BA0C2F,#940925,Illinois,Wisconsin,Big Ten,Big Ten
+8,"Saturday, October 19, 2019",Ohio,45,,home,#2C5234,#234129,Kent St.,38,,away,#00205B,#001948,Ohio,Kent State,Mid-American,Mid-American
+8,"Saturday, October 19, 2019",Iowa,26,23.0,home,#010101,#000,Purdue,20,,away,#010101,#000,Iowa,Purdue,Big Ten,Big Ten
+8,"Saturday, October 19, 2019",Houston,24,,away,#C8102E,#a00c24,UConn,17,,home,#0C2340,#091c33,Houston,Connecticut,American Athletic Conference,
+8,"Saturday, October 19, 2019",Boston College,45,,home,#862633,#6b1e28,NC State,24,,away,#C8102E,#a00c24,Boston College,North Carolina State,Atlantic Coast,Atlantic Coast
+8,"Saturday, October 19, 2019",Georgia Tech,28,,away,#B3A369,#8f8254,Miami (FL),21,,home,#154734,#103829,Georgia Tech,Miami (FL),Atlantic Coast,Atlantic Coast
+8,"Saturday, October 19, 2019",Iowa St.,34,,away,#A6192E,#841424,Texas Tech,24,,home,#DA291C,#ae2016,Iowa State,Texas Tech,Big 12,Big 12
+8,"Saturday, October 19, 2019",Clemson,45,3.0,away,#FF6720,#cc5219,Louisville,10,,home,#BA0C2F,#940925,Clemson,Louisville,Atlantic Coast,Atlantic Coast
+8,"Saturday, October 19, 2019",Florida,38,9.0,away,#003087,#00266c,South Carolina,27,,home,#862633,#6b1e28,Florida,South Carolina,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",Auburn,51,11.0,away,#0C2340,#091c33,Arkansas,10,,home,#9D2235,#7d1b2a,Auburn,Arkansas,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",Oklahoma,52,5.0,home,#9D2235,#7d1b2a,West Virginia,14,,away,#002855,#002044,Oklahoma,West Virginia,Big 12,Big 12
+8,"Saturday, October 19, 2019",Central Mich.,38,,away,#6F263D,#581e30,Bowling Green,20,,home,#FE5000,#cb4000,Central Michigan,Bowling Green,Mid-American,Mid-American
+8,"Saturday, October 19, 2019",Ball St.,52,,home,#BA0C2F,#940925,Toledo,14,,away,#00205B,#001948,Ball State,Toledo,Mid-American,Mid-American
+8,"Saturday, October 19, 2019",Miami (OH),27,,home,#C8102E,#a00c24,Northern Ill.,24,,away,#BA0C2F,#940925,Miami (OH),Northern Illinois,Mid-American,Mid-American
+8,"Saturday, October 19, 2019",Oregon St.,21,,away,#DC4405,#b03604,California,17,,home,#041E42,#031834,Oregon State,California,Pac-12,Pac-12
+8,"Saturday, October 19, 2019",Kansas St.,24,,home,#582C83,#462368,TCU,17,,away,#582C83,#462368,Kansas State,TCU,Big 12,Big 12
+8,"Saturday, October 19, 2019",Ga. Southern,30,,home,#041E42,#031834,Coastal Carolina,27,,away,#007377,#005c5f,Georgia Southern,Coastal Carolina,Sun Belt,Sun Belt
+8,"Saturday, October 19, 2019",Wyoming,23,,home,#4E3629,#3e2b20,New Mexico,10,,away,#BA0C2F,#940925,Wyoming,New Mexico,Mountain West,Mountain West
+8,"Saturday, October 19, 2019",LSU,36,2.0,away,#582C83,#462368,Mississippi St.,13,,home,#6F2C3F,#582332,LSU,Mississippi State,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",Indiana,34,,away,#9D2235,#7d1b2a,Maryland,28,,home,#C8102E,#a00c24,Indiana,Maryland,Big Ten,Big Ten
+8,"Saturday, October 19, 2019",SMU,45,19.0,home,#C8102E,#a00c24,Temple,21,,away,#b30838,#8f062c,SMU,Temple,American Athletic Conference,American Athletic Conference
+8,"Saturday, October 19, 2019",Oregon,35,12.0,away,#173F35,#12322a,Washington,31,25.0,home,#330072,#28005b,Oregon,Washington,Pac-12,Pac-12
+8,"Saturday, October 19, 2019",Louisiana Tech,45,,home,#003087,#00266c,Southern Miss.,30,,away,#010101,#000,Louisiana Tech,Southern Miss,Conference USA,Conference USA
+8,"Saturday, October 19, 2019",Minnesota,42,20.0,away,#861F41,#6b1834,Rutgers,7,,home,#C8102E,#a00c24,Minnesota,Rutgers,Big Ten,Big Ten
+8,"Saturday, October 19, 2019",Cincinnati,24,21.0,home,#C8102E,#a00c24,Tulsa,13,,away,#002D72,#00245b,Cincinnati,Tulsa,American Athletic Conference,American Athletic Conference
+8,"Saturday, October 19, 2019",Virginia,48,,home,#232D4B,#1c243c,Duke,14,,away,#002D72,#00245b,Virginia,Duke,Atlantic Coast,Atlantic Coast
+8,"Saturday, October 19, 2019",Navy,35,,home,#00205B,#001948,South Fla.,3,,away,#006747,#005238,Navy,South Florida,American Athletic Conference,American Athletic Conference
+8,"Saturday, October 19, 2019",Buffalo,21,,away,#0057B8,#004593,Akron,0,,home,#041E42,#031834,Buffalo,Akron,Mid-American,Mid-American
+8,"Saturday, October 19, 2019",Virginia Tech,43,,home,#861F41,#6b1834,North Carolina,41,,away,#7BAFD4,#628ca9,Virginia Tech,North Carolina,Atlantic Coast,Atlantic Coast
+8,"Saturday, October 19, 2019",Appalachian St.,52,24.0,home,#010101,#000,La.-Monroe,7,,away,#6F2C3F,#582332,Appalachian State,Louisiana-Monroe,Sun Belt,Sun Belt
+8,"Saturday, October 19, 2019",North Texas,33,,home,#007A33,#006128,Middle Tenn.,30,,away,#005EB8,#004b93,North Texas,Middle Tennessee,Conference USA,Conference USA
+8,"Saturday, October 19, 2019",Baylor,45,18.0,away,#1D3C34,#173029,Oklahoma St.,27,,home,#E35205,#b54104,Baylor,Oklahoma State,Big 12,Big 12
+8,"Saturday, October 19, 2019",Western Ky.,30,,home,#C8102E,#a00c24,Charlotte,14,,away,#046A38,#03542c,Western Kentucky,Charlotte,Conference USA,Conference USA
+8,"Saturday, October 19, 2019",Vanderbilt,21,,home,#010101,#000,Missouri,14,22.0,away,#010101,#000,Vanderbilt,Missouri,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",UAB,38,,home,#006341,#004f34,Old Dominion,14,,away,#003057,#002645,UAB,Old Dominion,Conference USA,
+8,"Saturday, October 19, 2019",Georgia,21,10.0,home,#DA291C,#ae2016,Kentucky,0,,away,#0032A0,#002880,Georgia,Kentucky,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",UTSA,31,,home,#0C2340,#091c33,Rice,27,,away,#00205B,#001948,UTSA,Rice,Conference USA,Conference USA
+8,"Saturday, October 19, 2019",Utah,21,13.0,home,#BA0C2F,#940925,Arizona St.,3,17.0,away,#7D2248,#641b39,Utah,Arizona State,Pac-12,Pac-12
+8,"Saturday, October 19, 2019",Liberty,59,,home,#A6192E,#841424,Maine,44,,away,#0C2340,#091c33,Liberty,Maine,Independents(FBS),
+8,"Saturday, October 19, 2019",UCF,41,,home,#010101,#000,East Carolina,28,,away,#582C83,#462368,UCF,East Carolina,American Athletic Conference,American Athletic Conference
+8,"Saturday, October 19, 2019",Eastern Mich.,34,,home,#046A38,#03542c,Western Mich.,27,,away,#693F23,#54321c,Eastern Michigan,Western Michigan,Mid-American,Mid-American
+8,"Saturday, October 19, 2019",FIU,32,,home,#041E42,#031834,UTEP,17,,away,#041E42,#031834,Florida International,UTEP,Conference USA,Conference USA
+8,"Saturday, October 19, 2019",Memphis,47,,home,#012169,#001a54,Tulane,17,,away,#006747,#005238,Memphis,Tulane,American Athletic Conference,American Athletic Conference
+8,"Saturday, October 19, 2019",San Diego St.,27,,away,#A6192E,#841424,San Jose St.,17,,home,#0032A0,#002880,San Diego State,San Jose State,Mountain West,Mountain West
+8,"Saturday, October 19, 2019",Texas,50,15.0,home,#CB6015,#a24c10,Kansas,48,,away,#003DA5,#003084,Texas,Kansas,Big 12,Big 12
+8,"Saturday, October 19, 2019",Georgia St.,28,,home,#0032A0,#002880,Army West Point,21,,away,#010101,#000,Georgia State,Army,Sun Belt,Independents(FBS)
+8,"Saturday, October 19, 2019",Washington St.,41,,home,#9D2235,#7d1b2a,Colorado,10,,away,#010101,#000,Washington State,Colorado,Pac-12,Pac-12
+8,"Saturday, October 19, 2019",Penn St.,28,7.0,home,#041E42,#031834,Michigan,21,16.0,away,#041E42,#031834,Penn State,Michigan,Big Ten,Big Ten
+8,"Saturday, October 19, 2019",Wake Forest,22,,home,#010101,#000,Florida St.,20,,away,#782F40,#602533,Wake Forest,Florida State,Atlantic Coast,Atlantic Coast
+8,"Saturday, October 19, 2019",Texas A&M,24,,away,#500000,#400000,Ole Miss,17,,home,#00205B,#001948,Texas A&M,Ole Miss,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",Alabama,35,1.0,home,#9D2235,#7d1b2a,Tennessee,13,,away,#FF8200,#cc6800,Alabama,Tennessee,Southeastern,Southeastern
+8,"Saturday, October 19, 2019",Southern California,41,,home,#9D2235,#7d1b2a,Arizona,14,,away,#00205B,#001948,USC,Arizona,Pac-12,Pac-12
+8,"Saturday, October 19, 2019",BYU,28,,home,#002E5D,#00244a,Boise St.,25,14.0,away,#0032A0,#002880,Brigham Young,Boise State,Independents(FBS),Mountain West
+8,"Saturday, October 19, 2019",Utah St.,36,,home,#00263A,#001e2e,Nevada,10,,away,#041E42,#031834,Utah State,Nevada,Mountain West,Mountain West
+8,"Saturday, October 19, 2019",Air Force,56,,away,#0032A0,#002880,Hawaii,26,,home,#154734,#103829,Air Force,Hawaii,Mountain West,Mountain West
+9,"Thursday, October 24, 2019",SMU,34,16.0,away,#C8102E,#a00c24,Houston,31,,home,#C8102E,#a00c24,SMU,Houston,American Athletic Conference,American Athletic Conference
+9,"Friday, October 25, 2019",Southern California,35,,away,#9D2235,#7d1b2a,Colorado,31,,home,#010101,#000,USC,Colorado,Pac-12,Pac-12
+9,"Saturday, October 26, 2019",Miami (FL),16,,away,#154734,#103829,Pittsburgh,12,,home,#003594,#002a76,Miami (FL),Pittsburgh,Atlantic Coast,Atlantic Coast
+9,"Saturday, October 26, 2019",San Jose St.,34,,away,#0032A0,#002880,Army West Point,29,,home,#010101,#000,San Jose State,Army,Mountain West,Independents(FBS)
+9,"Saturday, October 26, 2019",Appalachian St.,30,21.0,away,#010101,#000,South Alabama,3,,home,#BF0D3E,#980a31,Appalachian State,South Alabama,Sun Belt,Sun Belt
+9,"Saturday, October 26, 2019",Illinois,24,,away,#E04E39,#b33e2d,Purdue,6,,home,#010101,#000,Illinois,Purdue,Big Ten,Big Ten
+9,"Saturday, October 26, 2019",Ohio St.,38,3.0,home,#BA0C2F,#940925,Wisconsin,7,13.0,away,#BA0C2F,#940925,Ohio State,Wisconsin,Big Ten,Big Ten
+9,"Saturday, October 26, 2019",Texas A&M,49,,home,#500000,#400000,Mississippi St.,30,,away,#6F2C3F,#582332,Texas A&M,Mississippi State,Southeastern,Southeastern
+9,"Saturday, October 26, 2019",Western Mich.,49,,home,#693F23,#54321c,Bowling Green,10,,away,#FE5000,#cb4000,Western Michigan,Bowling Green,Mid-American,Mid-American
+9,"Saturday, October 26, 2019",Iowa,20,20.0,away,#010101,#000,Northwestern,0,,home,#4E2A84,#3e2169,Iowa,Northwestern,Big Ten,Big Ten
+9,"Saturday, October 26, 2019",Rutgers,44,,home,#C8102E,#a00c24,Liberty,34,,away,#A6192E,#841424,Rutgers,Liberty,Big Ten,Independents(FBS)
+9,"Saturday, October 26, 2019",Kansas St.,48,,home,#582C83,#462368,Oklahoma,41,5.0,away,#9D2235,#7d1b2a,Kansas State,Oklahoma,Big 12,Big 12
+9,"Saturday, October 26, 2019",Southern Miss.,20,,away,#010101,#000,Rice,6,,home,#00205B,#001948,Southern Miss,Rice,Conference USA,Conference USA
+9,"Saturday, October 26, 2019",Ohio,34,,away,#2C5234,#234129,Ball St.,21,,home,#BA0C2F,#940925,Ohio,Ball State,Mid-American,Mid-American
+9,"Saturday, October 26, 2019",Wyoming,31,,home,#4E3629,#3e2b20,Nevada,3,,away,#041E42,#031834,Wyoming,Nevada,Mountain West,Mountain West
+9,"Saturday, October 26, 2019",Marshall,26,,home,#00B140,#008d33,Western Ky.,23,,away,#C8102E,#a00c24,Marshall,Western Kentucky,Conference USA,Conference USA
+9,"Saturday, October 26, 2019",Ga. Southern,41,,home,#041E42,#031834,New Mexico St.,7,,away,#861F41,#6b1834,Georgia Southern,New Mexico State,Sun Belt,
+9,"Saturday, October 26, 2019",Louisville,28,,home,#BA0C2F,#940925,Virginia,21,,away,#232D4B,#1c243c,Louisville,Virginia,Atlantic Coast,Atlantic Coast
+9,"Saturday, October 26, 2019",TCU,37,,home,#582C83,#462368,Texas,27,15.0,away,#CB6015,#a24c10,TCU,Texas,Big 12,Big 12
+9,"Saturday, October 26, 2019",Fla. Atlantic,41,,away,#002855,#002044,Old Dominion,3,,home,#003057,#002645,Florida Atlantic,Old Dominion,Conference USA,
+9,"Saturday, October 26, 2019",Toledo,37,,home,#00205B,#001948,Eastern Mich.,34,,away,#046A38,#03542c,Toledo,Eastern Michigan,Mid-American,Mid-American
+9,"Saturday, October 26, 2019",Miami (OH),23,,away,#C8102E,#a00c24,Kent St.,16,,home,#00205B,#001948,Miami (OH),Kent State,Mid-American,Mid-American
+9,"Saturday, October 26, 2019",Penn St.,28,6.0,away,#041E42,#031834,Michigan St.,7,,home,#173F35,#12322a,Penn State,Michigan State,Big Ten,Big Ten
+9,"Saturday, October 26, 2019",Charlotte,39,,home,#046A38,#03542c,North Texas,38,,away,#007A33,#006128,Charlotte,North Texas,Conference USA,Conference USA
+9,"Saturday, October 26, 2019",LSU,23,2.0,home,#582C83,#462368,Auburn,20,9.0,away,#0C2340,#091c33,LSU,Auburn,Southeastern,Southeastern
+9,"Saturday, October 26, 2019",Middle Tenn.,50,,home,#005EB8,#004b93,FIU,17,,away,#041E42,#031834,Middle Tennessee,Florida International,Conference USA,Conference USA
+9,"Saturday, October 26, 2019",Indiana,38,,away,#9D2235,#7d1b2a,Nebraska,31,,home,#C8102E,#a00c24,Indiana,Nebraska,Big Ten,Big Ten
+9,"Saturday, October 26, 2019",UConn,56,,away,#0C2340,#091c33,Massachusetts,35,,home,#971B2F,#781525,Connecticut,Massachusetts,,Independents(FBS)
+9,"Saturday, October 26, 2019",Northern Ill.,49,,home,#BA0C2F,#940925,Akron,0,,away,#041E42,#031834,Northern Illinois,Akron,Mid-American,Mid-American
+9,"Saturday, October 26, 2019",Minnesota,52,17.0,home,#861F41,#6b1834,Maryland,10,,away,#C8102E,#a00c24,Minnesota,Maryland,Big Ten,Big Ten
+9,"Saturday, October 26, 2019",Florida St.,35,,home,#782F40,#602533,Syracuse,17,,away,#DC4405,#b03604,Florida State,Syracuse,Atlantic Coast,Atlantic Coast
+9,"Saturday, October 26, 2019",Navy,41,,home,#00205B,#001948,Tulane,38,,away,#006747,#005238,Navy,Tulane,American Athletic Conference,American Athletic Conference
+9,"Saturday, October 26, 2019",Oklahoma St.,34,,away,#E35205,#b54104,Iowa St.,27,23.0,home,#A6192E,#841424,Oklahoma State,Iowa State,Big 12,Big 12
+9,"Saturday, October 26, 2019",Stanford,41,,home,#9D2235,#7d1b2a,Arizona,31,,away,#00205B,#001948,Stanford,Arizona,Pac-12,Pac-12
+9,"Saturday, October 26, 2019",Buffalo,43,,home,#0057B8,#004593,Central Mich.,20,,away,#6F263D,#581e30,Buffalo,Central Michigan,Mid-American,Mid-American
+9,"Saturday, October 26, 2019",South Fla.,45,,away,#006747,#005238,East Carolina,20,,home,#582C83,#462368,South Florida,East Carolina,American Athletic Conference,American Athletic Conference
+9,"Saturday, October 26, 2019",North Carolina,20,,home,#7BAFD4,#628ca9,Duke,17,,away,#002D72,#00245b,North Carolina,Duke,Atlantic Coast,Atlantic Coast
+9,"Saturday, October 26, 2019",Tennessee,41,,home,#FF8200,#cc6800,South Carolina,21,,away,#862633,#6b1e28,Tennessee,South Carolina,Southeastern,Southeastern
+9,"Saturday, October 26, 2019",Hawaii,45,,away,#154734,#103829,New Mexico,31,,home,#BA0C2F,#940925,Hawaii,New Mexico,Mountain West,Mountain West
+9,"Saturday, October 26, 2019",Kansas,37,,home,#003DA5,#003084,Texas Tech,34,,away,#DA291C,#ae2016,Kansas,Texas Tech,Big 12,Big 12
+9,"Saturday, October 26, 2019",Memphis,42,,away,#012169,#001a54,Tulsa,41,,home,#002D72,#00245b,Memphis,Tulsa,American Athletic Conference,American Athletic Conference
+9,"Saturday, October 26, 2019",Georgia St.,52,,home,#0032A0,#002880,Troy,33,,away,#9D2235,#7d1b2a,Georgia State,Troy,Sun Belt,Sun Belt
+9,"Saturday, October 26, 2019",Arkansas St.,38,,home,#C8102E,#a00c24,Texas St.,14,,away,#572932,#452028,Arkansas State,Texas State,Sun Belt,Sun Belt
+9,"Saturday, October 26, 2019",UCF,63,,away,#010101,#000,Temple,21,,home,#b30838,#8f062c,UCF,Temple,American Athletic Conference,American Athletic Conference
+9,"Saturday, October 26, 2019",Alabama,48,1.0,home,#9D2235,#7d1b2a,Arkansas,7,,away,#9D2235,#7d1b2a,Alabama,Arkansas,Southeastern,Southeastern
+9,"Saturday, October 26, 2019",Colorado St.,41,,away,#2C5234,#234129,Fresno St.,31,,home,#D50032,#aa0028,Colorado State,Fresno State,Mountain West,Mountain West
+9,"Saturday, October 26, 2019",UCLA,42,,home,#0072CE,#005ba4,Arizona St.,32,24.0,away,#7D2248,#641b39,UCLA,Arizona State,Pac-12,Pac-12
+9,"Saturday, October 26, 2019",Clemson,59,4.0,home,#FF6720,#cc5219,Boston College,7,,away,#862633,#6b1e28,Clemson,Boston College,Atlantic Coast,Atlantic Coast
+9,"Saturday, October 26, 2019",Michigan,45,19.0,home,#041E42,#031834,Notre Dame,14,8.0,away,#0C2340,#091c33,Michigan,Notre Dame,Big Ten,Atlantic Coast
+9,"Saturday, October 26, 2019",Kentucky,29,,home,#0032A0,#002880,Missouri,7,,away,#010101,#000,Kentucky,Missouri,Southeastern,Southeastern
+9,"Saturday, October 26, 2019",Louisiana Tech,42,,away,#003087,#00266c,UTEP,21,,home,#041E42,#031834,Louisiana Tech,UTEP,Conference USA,Conference USA
+9,"Saturday, October 26, 2019",Utah,35,12.0,home,#BA0C2F,#940925,California,0,,away,#041E42,#031834,Utah,California,Pac-12,Pac-12
+9,"Saturday, October 26, 2019",Air Force,31,,home,#0032A0,#002880,Utah St.,7,,away,#00263A,#001e2e,Air Force,Utah State,Mountain West,Mountain West
+9,"Saturday, October 26, 2019",Oregon,37,11.0,home,#173F35,#12322a,Washington St.,35,,away,#9D2235,#7d1b2a,Oregon,Washington State,Pac-12,Pac-12
+9,"Saturday, October 26, 2019",San Diego St.,20,,away,#A6192E,#841424,UNLV,17,,home,#C8102E,#a00c24,San Diego State,UNLV,Mountain West,Mountain West
+10,"Thursday, October 31, 2019",Baylor,17,12.0,home,#1D3C34,#173029,West Virginia,14,,away,#002855,#002044,Baylor,West Virginia,Big 12,Big 12
+10,"Thursday, October 31, 2019",Ga. Southern,24,,away,#041E42,#031834,Appalachian St.,21,20.0,home,#010101,#000,Georgia Southern,Appalachian State,Sun Belt,Sun Belt
+10,"Friday, November 01, 2019",Navy,56,,away,#00205B,#001948,UConn,10,,home,#0C2340,#091c33,Navy,Connecticut,American Athletic Conference,
+10,"Saturday, November 02, 2019",Purdue,31,,home,#010101,#000,Nebraska,27,,away,#C8102E,#a00c24,Purdue,Nebraska,Big Ten,Big Ten
+10,"Saturday, November 02, 2019",Liberty,63,,away,#A6192E,#841424,Massachusetts,21,,home,#971B2F,#781525,Liberty,Massachusetts,Independents(FBS),Independents(FBS)
+10,"Saturday, November 02, 2019",Wake Forest,44,23.0,home,#010101,#000,NC State,10,,away,#C8102E,#a00c24,Wake Forest,North Carolina State,Atlantic Coast,Atlantic Coast
+10,"Saturday, November 02, 2019",Michigan,38,14.0,away,#041E42,#031834,Maryland,7,,home,#C8102E,#a00c24,Michigan,Maryland,Big Ten,Big Ten
+10,"Saturday, November 02, 2019",Boston College,58,,away,#862633,#6b1e28,Syracuse,27,,home,#DC4405,#b03604,Boston College,Syracuse,Atlantic Coast,Atlantic Coast
+10,"Saturday, November 02, 2019",FIU,24,,home,#041E42,#031834,Old Dominion,17,,away,#003057,#002645,Florida International,Old Dominion,Conference USA,
+10,"Saturday, November 02, 2019",Central Mich.,48,,home,#6F263D,#581e30,Northern Ill.,10,,away,#BA0C2F,#940925,Central Michigan,Northern Illinois,Mid-American,Mid-American
+10,"Saturday, November 02, 2019",Buffalo,43,,away,#0057B8,#004593,Eastern Mich.,14,,home,#046A38,#03542c,Buffalo,Eastern Michigan,Mid-American,Mid-American
+10,"Saturday, November 02, 2019",UCF,44,,home,#010101,#000,Houston,29,,away,#C8102E,#a00c24,UCF,Houston,American Athletic Conference,American Athletic Conference
+10,"Saturday, November 02, 2019",Texas A&M,45,,home,#500000,#400000,UTSA,14,,away,#0C2340,#091c33,Texas A&M,UTSA,Southeastern,Conference USA
+10,"Saturday, November 02, 2019",Bowling Green,35,,home,#FE5000,#cb4000,Akron,6,,away,#041E42,#031834,Bowling Green,Akron,Mid-American,Mid-American
+10,"Saturday, November 02, 2019",Notre Dame,21,16.0,home,#0C2340,#091c33,Virginia Tech,20,,away,#861F41,#6b1834,Notre Dame,Virginia Tech,Atlantic Coast,Atlantic Coast
+10,"Saturday, November 02, 2019",Coastal Carolina,36,,home,#007377,#005c5f,Troy,35,,away,#9D2235,#7d1b2a,Coastal Carolina,Troy,Sun Belt,Sun Belt
+10,"Saturday, November 02, 2019",Colorado St.,37,,home,#2C5234,#234129,UNLV,17,,away,#C8102E,#a00c24,Colorado State,UNLV,Mountain West,Mountain West
+10,"Saturday, November 02, 2019",Air Force,17,,home,#0032A0,#002880,Army West Point,13,,away,#010101,#000,Air Force,Army,Mountain West,Independents(FBS)
+10,"Saturday, November 02, 2019",Georgia,24,8.0,away,#DA291C,#ae2016,Florida,17,6.0,home,#003087,#00266c,Georgia,Florida,Southeastern,Southeastern
+10,"Saturday, November 02, 2019",Illinois,38,,home,#E04E39,#b33e2d,Rutgers,10,,away,#C8102E,#a00c24,Illinois,Rutgers,Big Ten,Big Ten
+10,"Saturday, November 02, 2019",Miami (FL),27,,away,#154734,#103829,Florida St.,10,,home,#782F40,#602533,Miami (FL),Florida State,Atlantic Coast,Atlantic Coast
+10,"Saturday, November 02, 2019",Marshall,20,,away,#00B140,#008d33,Rice,7,,home,#00205B,#001948,Marshall,Rice,Conference USA,Conference USA
+10,"Saturday, November 02, 2019",Charlotte,34,,home,#046A38,#03542c,Middle Tenn.,20,,away,#005EB8,#004b93,Charlotte,Middle Tennessee,Conference USA,Conference USA
+10,"Saturday, November 02, 2019",North Texas,52,,home,#007A33,#006128,UTEP,26,,away,#041E42,#031834,North Texas,UTEP,Conference USA,Conference USA
+10,"Saturday, November 02, 2019",Kansas St.,38,22.0,away,#582C83,#462368,Kansas,10,,home,#003DA5,#003084,Kansas State,Kansas,Big 12,Big 12
+10,"Saturday, November 02, 2019",Oklahoma St.,34,,home,#E35205,#b54104,TCU,27,,away,#582C83,#462368,Oklahoma State,TCU,Big 12,Big 12
+10,"Saturday, November 02, 2019",Arkansas St.,48,,away,#C8102E,#a00c24,La.-Monroe,41,,home,#6F2C3F,#582332,Arkansas State,Louisiana-Monroe,Sun Belt,Sun Belt
+10,"Saturday, November 02, 2019",Fla. Atlantic,35,,away,#002855,#002044,Western Ky.,24,,home,#C8102E,#a00c24,Florida Atlantic,Western Kentucky,Conference USA,Conference USA
+10,"Saturday, November 02, 2019",Mississippi St.,54,,away,#6F2C3F,#582332,Arkansas,24,,home,#9D2235,#7d1b2a,Mississippi State,Arkansas,Southeastern,Southeastern
+10,"Saturday, November 02, 2019",Utah,33,9.0,away,#BA0C2F,#940925,Washington,28,,home,#330072,#28005b,Utah,Washington,Pac-12,Pac-12
+10,"Saturday, November 02, 2019",Tulane,38,,home,#006747,#005238,Tulsa,26,,away,#002D72,#00245b,Tulane,Tulsa,American Athletic Conference,American Athletic Conference
+10,"Saturday, November 02, 2019",Clemson,59,4.0,home,#FF6720,#cc5219,Wofford,14,,away,#8C714C,#705a3c,Clemson,Wofford,Atlantic Coast,
+10,"Saturday, November 02, 2019",Pittsburgh,20,,away,#003594,#002a76,Georgia Tech,10,,home,#B3A369,#8f8254,Pittsburgh,Georgia Tech,Atlantic Coast,Atlantic Coast
+10,"Saturday, November 02, 2019",Oregon St.,56,,away,#DC4405,#b03604,Arizona,38,,home,#00205B,#001948,Oregon State,Arizona,Pac-12,Pac-12
+10,"Saturday, November 02, 2019",Louisiana,31,,home,#C8102E,#a00c24,Texas St.,3,,away,#572932,#452028,Louisiana-Lafayette,Texas State,Sun Belt,Sun Belt
+10,"Saturday, November 02, 2019",Tennessee,30,,home,#FF8200,#cc6800,UAB,7,,away,#006341,#004f34,Tennessee,UAB,Southeastern,Conference USA
+10,"Saturday, November 02, 2019",Cincinnati,46,17.0,away,#C8102E,#a00c24,East Carolina,43,,home,#582C83,#462368,Cincinnati,East Carolina,American Athletic Conference,American Athletic Conference
+10,"Saturday, November 02, 2019",Auburn,20,11.0,home,#0C2340,#091c33,Ole Miss,14,,away,#00205B,#001948,Auburn,Ole Miss,Southeastern,Southeastern
+10,"Saturday, November 02, 2019",Indiana,34,,home,#9D2235,#7d1b2a,Northwestern,3,,away,#4E2A84,#3e2169,Indiana,Northwestern,Big Ten,Big Ten
+10,"Saturday, November 02, 2019",South Carolina,24,,home,#862633,#6b1e28,Vanderbilt,7,,away,#010101,#000,South Carolina,Vanderbilt,Southeastern,Southeastern
+10,"Saturday, November 02, 2019",Virginia,38,,away,#232D4B,#1c243c,North Carolina,31,,home,#7BAFD4,#628ca9,Virginia,North Carolina,Atlantic Coast,Atlantic Coast
+10,"Saturday, November 02, 2019",Memphis,54,24.0,home,#012169,#001a54,SMU,48,15.0,away,#C8102E,#a00c24,Memphis,SMU,American Athletic Conference,American Athletic Conference
+10,"Saturday, November 02, 2019",Oregon,56,7.0,away,#173F35,#12322a,Southern California,24,,home,#9D2235,#7d1b2a,Oregon,USC,Pac-12,Pac-12
+10,"Saturday, November 02, 2019",UCLA,31,,home,#0072CE,#005ba4,Colorado,14,,away,#010101,#000,UCLA,Colorado,Pac-12,Pac-12
+10,"Saturday, November 02, 2019",BYU,42,,away,#002E5D,#00244a,Utah St.,14,,home,#00263A,#001e2e,Brigham Young,Utah State,Independents(FBS),Mountain West
+10,"Saturday, November 02, 2019",Nevada,21,,home,#041E42,#031834,New Mexico,10,,away,#BA0C2F,#940925,Nevada,New Mexico,Mountain West,Mountain West
+10,"Saturday, November 02, 2019",Boise St.,52,21.0,away,#0032A0,#002880,San Jose St.,42,,home,#0032A0,#002880,Boise State,San Jose State,Mountain West,Mountain West
+10,"Sunday, November 03, 2019",Fresno St.,41,,away,#D50032,#aa0028,Hawaii,38,,home,#154734,#103829,Fresno State,Hawaii,Mountain West,Mountain West
+11,"Tuesday, November 05, 2019",Toledo,35,,home,#00205B,#001948,Kent St.,33,,away,#00205B,#001948,Toledo,Kent State,Mid-American,Mid-American
+11,"Tuesday, November 05, 2019",Western Mich.,35,,home,#693F23,#54321c,Ball St.,31,,away,#BA0C2F,#940925,Western Michigan,Ball State,Mid-American,Mid-American
+11,"Wednesday, November 06, 2019",Miami (OH),24,,away,#C8102E,#a00c24,Ohio,21,,home,#2C5234,#234129,Miami (OH),Ohio,Mid-American,Mid-American
+11,"Thursday, November 07, 2019",Louisiana,48,,away,#C8102E,#a00c24,Coastal Carolina,7,,home,#007377,#005c5f,Louisiana-Lafayette,Coastal Carolina,Sun Belt,Sun Belt
+11,"Thursday, November 07, 2019",Temple,17,,away,#b30838,#8f062c,South Fla.,7,,home,#006747,#005238,Temple,South Florida,American Athletic Conference,American Athletic Conference
+11,"Friday, November 08, 2019",Tulsa,34,,home,#002D72,#00245b,UCF,31,,away,#010101,#000,Tulsa,UCF,American Athletic Conference,American Athletic Conference
+11,"Friday, November 08, 2019",Washington,19,,away,#330072,#28005b,Oregon St.,7,,home,#DC4405,#b03604,Washington,Oregon State,Pac-12,Pac-12
+11,"Saturday, November 09, 2019",Minnesota,31,17.0,home,#861F41,#6b1834,Penn St.,26,4.0,away,#041E42,#031834,Minnesota,Penn State,Big Ten,Big Ten
+11,"Saturday, November 09, 2019",Purdue,24,,away,#010101,#000,Northwestern,22,,home,#4E2A84,#3e2169,Purdue,Northwestern,Big Ten,Big Ten
+11,"Saturday, November 09, 2019",Ohio St.,73,1.0,home,#BA0C2F,#940925,Maryland,14,,away,#C8102E,#a00c24,Ohio State,Maryland,Big Ten,Big Ten
+11,"Saturday, November 09, 2019",Florida St.,38,,away,#782F40,#602533,Boston College,31,,home,#862633,#6b1e28,Florida State,Boston College,Atlantic Coast,Atlantic Coast
+11,"Saturday, November 09, 2019",SMU,59,25.0,home,#C8102E,#a00c24,East Carolina,51,,away,#582C83,#462368,SMU,East Carolina,American Athletic Conference,American Athletic Conference
+11,"Saturday, November 09, 2019",Florida,56,10.0,home,#003087,#00266c,Vanderbilt,0,,away,#010101,#000,Florida,Vanderbilt,Southeastern,Southeastern
+11,"Saturday, November 09, 2019",Army West Point,63,,home,#010101,#000,Massachusetts,7,,away,#971B2F,#781525,Army,Massachusetts,Independents(FBS),Independents(FBS)
+11,"Saturday, November 09, 2019",Western Ky.,45,,away,#C8102E,#a00c24,Arkansas,19,,home,#9D2235,#7d1b2a,Western Kentucky,Arkansas,Conference USA,Southeastern
+11,"Saturday, November 09, 2019",Texas Tech,38,,away,#DA291C,#ae2016,West Virginia,17,,home,#002855,#002044,Texas Tech,West Virginia,Big 12,Big 12
+11,"Saturday, November 09, 2019",Baylor,29,12.0,away,#1D3C34,#173029,TCU,23,,home,#582C83,#462368,Baylor,TCU,Big 12,Big 12
+11,"Saturday, November 09, 2019",Virginia,33,,home,#232D4B,#1c243c,Georgia Tech,28,,away,#B3A369,#8f8254,Virginia,Georgia Tech,Atlantic Coast,Atlantic Coast
+11,"Saturday, November 09, 2019",UTSA,24,,away,#0C2340,#091c33,Old Dominion,23,,home,#003057,#002645,UTSA,Old Dominion,Conference USA,
+11,"Saturday, November 09, 2019",Charlotte,28,,away,#046A38,#03542c,UTEP,21,,home,#041E42,#031834,Charlotte,UTEP,Conference USA,Conference USA
+11,"Saturday, November 09, 2019",Texas St.,30,,home,#572932,#452028,South Alabama,28,,away,#BF0D3E,#980a31,Texas State,South Alabama,Sun Belt,Sun Belt
+11,"Saturday, November 09, 2019",Colorado,16,,home,#010101,#000,Stanford,13,,away,#9D2235,#7d1b2a,Colorado,Stanford,Pac-12,Pac-12
+11,"Saturday, November 09, 2019",Miami (FL),52,,home,#154734,#103829,Louisville,27,,away,#BA0C2F,#940925,Miami (FL),Louisville,Atlantic Coast,Atlantic Coast
+11,"Saturday, November 09, 2019",Cincinnati,48,20.0,home,#C8102E,#a00c24,UConn,3,,away,#0C2340,#091c33,Cincinnati,Connecticut,American Athletic Conference,
+11,"Saturday, November 09, 2019",Virginia Tech,36,,home,#861F41,#6b1834,Wake Forest,17,19.0,away,#010101,#000,Virginia Tech,Wake Forest,Atlantic Coast,Atlantic Coast
+11,"Saturday, November 09, 2019",Troy,49,,home,#9D2235,#7d1b2a,Ga. Southern,28,,away,#041E42,#031834,Troy,Georgia Southern,Sun Belt,Sun Belt
+11,"Saturday, November 09, 2019",Southern Miss.,37,,home,#010101,#000,UAB,2,,away,#006341,#004f34,Southern Miss,UAB,Conference USA,Conference USA
+11,"Saturday, November 09, 2019",Texas,27,,home,#CB6015,#a24c10,Kansas St.,24,16.0,away,#582C83,#462368,Texas,Kansas State,Big 12,Big 12
+11,"Saturday, November 09, 2019",Illinois,37,,away,#E04E39,#b33e2d,Michigan St.,34,,home,#173F35,#12322a,Illinois,Michigan State,Big Ten,Big Ten
+11,"Saturday, November 09, 2019",LSU,46,2.0,away,#582C83,#462368,Alabama,41,3.0,home,#9D2235,#7d1b2a,LSU,Alabama,Southeastern,Southeastern
+11,"Saturday, November 09, 2019",Southern California,31,,away,#9D2235,#7d1b2a,Arizona St.,26,,home,#7D2248,#641b39,USC,Arizona State,Pac-12,Pac-12
+11,"Saturday, November 09, 2019",Louisiana Tech,52,,home,#003087,#00266c,North Texas,17,,away,#007A33,#006128,Louisiana Tech,North Texas,Conference USA,Conference USA
+11,"Saturday, November 09, 2019",Ole Miss,41,,home,#00205B,#001948,New Mexico St.,3,,away,#861F41,#6b1834,Ole Miss,New Mexico State,Southeastern,
+11,"Saturday, November 09, 2019",Wisconsin,24,13.0,home,#BA0C2F,#940925,Iowa,22,18.0,away,#010101,#000,Wisconsin,Iowa,Big Ten,Big Ten
+11,"Saturday, November 09, 2019",La.-Monroe,45,,home,#6F2C3F,#582332,Georgia St.,31,,away,#0032A0,#002880,Louisiana-Monroe,Georgia State,Sun Belt,Sun Belt
+11,"Saturday, November 09, 2019",Fla. Atlantic,37,,home,#002855,#002044,FIU,7,,away,#041E42,#031834,Florida Atlantic,Florida International,Conference USA,Conference USA
+11,"Saturday, November 09, 2019",Utah St.,37,,away,#00263A,#001e2e,Fresno St.,35,,home,#D50032,#aa0028,Utah State,Fresno State,Mountain West,Mountain West
+11,"Saturday, November 09, 2019",California,33,,home,#041E42,#031834,Washington St.,20,,away,#9D2235,#7d1b2a,California,Washington State,Pac-12,Pac-12
+11,"Saturday, November 09, 2019",Georgia,27,6.0,home,#DA291C,#ae2016,Missouri,0,,away,#010101,#000,Georgia,Missouri,Southeastern,Southeastern
+11,"Saturday, November 09, 2019",Appalachian St.,20,,away,#010101,#000,South Carolina,15,,home,#862633,#6b1e28,Appalachian State,South Carolina,Sun Belt,Southeastern
+11,"Saturday, November 09, 2019",Clemson,55,5.0,away,#FF6720,#cc5219,NC State,10,,home,#C8102E,#a00c24,Clemson,North Carolina State,Atlantic Coast,Atlantic Coast
+11,"Saturday, November 09, 2019",Notre Dame,38,15.0,away,#0C2340,#091c33,Duke,7,,home,#002D72,#00245b,Notre Dame,Duke,Atlantic Coast,Atlantic Coast
+11,"Saturday, November 09, 2019",Tennessee,17,,away,#FF8200,#cc6800,Kentucky,13,,home,#0032A0,#002880,Tennessee,Kentucky,Southeastern,Southeastern
+11,"Saturday, November 09, 2019",BYU,31,,home,#002E5D,#00244a,Liberty,24,,away,#A6192E,#841424,Brigham Young,Liberty,Independents(FBS),Independents(FBS)
+11,"Saturday, November 09, 2019",Oklahoma,42,9.0,home,#9D2235,#7d1b2a,Iowa St.,41,,away,#A6192E,#841424,Oklahoma,Iowa State,Big 12,Big 12
+11,"Saturday, November 09, 2019",Boise St.,20,22.0,home,#0032A0,#002880,Wyoming,17,,away,#4E3629,#3e2b20,Boise State,Wyoming,Mountain West,Mountain West
+11,"Saturday, November 09, 2019",Nevada,17,,away,#041E42,#031834,San Diego St.,13,,home,#A6192E,#841424,Nevada,San Diego State,Mountain West,Mountain West
+11,"Sunday, November 10, 2019",Hawaii,42,,home,#154734,#103829,San Jose St.,40,,away,#0032A0,#002880,Hawaii,San Jose State,Mountain West,Mountain West
+12,"Tuesday, November 12, 2019",Eastern Mich.,42,,away,#046A38,#03542c,Akron,14,,home,#041E42,#031834,Eastern Michigan,Akron,Mid-American,Mid-American
+12,"Tuesday, November 12, 2019",Western Mich.,37,,away,#693F23,#54321c,Ohio,34,,home,#2C5234,#234129,Western Michigan,Ohio,Mid-American,Mid-American
+12,"Wednesday, November 13, 2019",Miami (OH),44,,home,#C8102E,#a00c24,Bowling Green,3,,away,#FE5000,#cb4000,Miami (OH),Bowling Green,Mid-American,Mid-American
+12,"Wednesday, November 13, 2019",Northern Ill.,31,,away,#BA0C2F,#940925,Toledo,28,,home,#00205B,#001948,Northern Illinois,Toledo,Mid-American,Mid-American
+12,"Thursday, November 14, 2019",Kent St.,30,,home,#00205B,#001948,Buffalo,27,,away,#0057B8,#004593,Kent State,Buffalo,Mid-American,Mid-American
+12,"Thursday, November 14, 2019",Pittsburgh,34,,home,#003594,#002a76,North Carolina,27,,away,#7BAFD4,#628ca9,Pittsburgh,North Carolina,Atlantic Coast,Atlantic Coast
+12,"Friday, November 15, 2019",Marshall,31,,home,#00B140,#008d33,Louisiana Tech,10,,away,#003087,#00266c,Marshall,Louisiana Tech,Conference USA,Conference USA
+12,"Friday, November 15, 2019",San Diego St.,17,,home,#A6192E,#841424,Fresno St.,7,,away,#D50032,#aa0028,San Diego State,Fresno State,Mountain West,Mountain West
+12,"Saturday, November 16, 2019",Alabama,38,5.0,away,#9D2235,#7d1b2a,Mississippi St.,7,,home,#6F2C3F,#582332,Alabama,Mississippi State,Southeastern,Southeastern
+12,"Saturday, November 16, 2019",Oklahoma St.,31,22.0,home,#E35205,#b54104,Kansas,13,,away,#003DA5,#003084,Oklahoma State,Kansas,Big 12,Big 12
+12,"Saturday, November 16, 2019",Temple,29,,home,#b30838,#8f062c,Tulane,21,,away,#006747,#005238,Temple,Tulane,American Athletic Conference,American Athletic Conference
+12,"Saturday, November 16, 2019",Michigan,44,15.0,home,#041E42,#031834,Michigan St.,10,,away,#173F35,#12322a,Michigan,Michigan State,Big Ten,Big Ten
+12,"Saturday, November 16, 2019",TCU,33,,away,#582C83,#462368,Texas Tech,31,,home,#DA291C,#ae2016,TCU,Texas Tech,Big 12,Big 12
+12,"Saturday, November 16, 2019",Florida St.,49,,home,#782F40,#602533,Alabama St.,12,,away,#010101,#000,Florida State,Alabama State,Atlantic Coast,
+12,"Saturday, November 16, 2019",Penn St.,34,9.0,home,#041E42,#031834,Indiana,27,,away,#9D2235,#7d1b2a,Penn State,Indiana,Big Ten,Big Ten
+12,"Saturday, November 16, 2019",Northwestern,45,,home,#4E2A84,#3e2169,Massachusetts,6,,away,#971B2F,#781525,Northwestern,Massachusetts,Big Ten,Independents(FBS)
+12,"Saturday, November 16, 2019",Army West Point,47,,home,#010101,#000,VMI,6,,away,#E4002B,#b60022,Army,VMI,Independents(FBS),
+12,"Saturday, November 16, 2019",Wisconsin,37,14.0,away,#BA0C2F,#940925,Nebraska,21,,home,#C8102E,#a00c24,Wisconsin,Nebraska,Big Ten,Big Ten
+12,"Saturday, November 16, 2019",Florida,23,11.0,away,#003087,#00266c,Missouri,6,,home,#010101,#000,Florida,Missouri,Southeastern,Southeastern
+12,"Saturday, November 16, 2019",UAB,37,,home,#006341,#004f34,UTEP,10,,away,#041E42,#031834,UAB,UTEP,Conference USA,Conference USA
+12,"Saturday, November 16, 2019",Notre Dame,52,16.0,home,#0C2340,#091c33,Navy,20,23.0,away,#00205B,#001948,Notre Dame,Navy,Atlantic Coast,American Athletic Conference
+12,"Saturday, November 16, 2019",Arkansas St.,28,,home,#C8102E,#a00c24,Coastal Carolina,27,,away,#007377,#005c5f,Arkansas State,Coastal Carolina,Sun Belt,Sun Belt
+12,"Saturday, November 16, 2019",Troy,63,,away,#9D2235,#7d1b2a,Texas St.,27,,home,#572932,#452028,Troy,Texas State,Sun Belt,Sun Belt
+12,"Saturday, November 16, 2019",Ga. Southern,51,,home,#041E42,#031834,La.-Monroe,29,,away,#6F2C3F,#582332,Georgia Southern,Louisiana-Monroe,Sun Belt,Sun Belt
+12,"Saturday, November 16, 2019",BYU,42,,home,#002E5D,#00244a,Idaho St.,10,,away,#FF6720,#cc5219,Brigham Young,Idaho State,Independents(FBS),
+12,"Saturday, November 16, 2019",Central Mich.,45,,away,#6F263D,#581e30,Ball St.,44,,home,#BA0C2F,#940925,Central Michigan,Ball State,Mid-American,Mid-American
+12,"Saturday, November 16, 2019",Virginia Tech,45,,away,#861F41,#6b1834,Georgia Tech,0,,home,#B3A369,#8f8254,Virginia Tech,Georgia Tech,Atlantic Coast,Atlantic Coast
+12,"Saturday, November 16, 2019",Georgia,21,4.0,away,#DA291C,#ae2016,Auburn,14,12.0,home,#0C2340,#091c33,Georgia,Auburn,Southeastern,Southeastern
+12,"Saturday, November 16, 2019",Kentucky,38,,away,#0032A0,#002880,Vanderbilt,14,,home,#010101,#000,Kentucky,Vanderbilt,Southeastern,Southeastern
+12,"Saturday, November 16, 2019",Clemson,52,3.0,home,#FF6720,#cc5219,Wake Forest,3,,away,#010101,#000,Clemson,Wake Forest,Atlantic Coast,Atlantic Coast
+12,"Saturday, November 16, 2019",Iowa St.,23,,home,#A6192E,#841424,Texas,21,19.0,away,#CB6015,#a24c10,Iowa State,Texas,Big 12,Big 12
+12,"Saturday, November 16, 2019",Memphis,45,18.0,away,#012169,#001a54,Houston,27,,home,#C8102E,#a00c24,Memphis,Houston,American Athletic Conference,American Athletic Conference
+12,"Saturday, November 16, 2019",Ohio St.,56,2.0,away,#BA0C2F,#940925,Rutgers,21,,home,#C8102E,#a00c24,Ohio State,Rutgers,Big Ten,Big Ten
+12,"Saturday, November 16, 2019",West Virginia,24,,away,#002855,#002044,Kansas St.,20,24.0,home,#582C83,#462368,West Virginia,Kansas State,Big 12,Big 12
+12,"Saturday, November 16, 2019",Utah St.,26,,home,#00263A,#001e2e,Wyoming,21,,away,#4E3629,#3e2b20,Utah State,Wyoming,Mountain West,Mountain West
+12,"Saturday, November 16, 2019",Hawaii,21,,away,#154734,#103829,UNLV,7,,home,#C8102E,#a00c24,Hawaii,UNLV,Mountain West,Mountain West
+12,"Saturday, November 16, 2019",New Mexico St.,41,,home,#861F41,#6b1834,UIW,28,,away,#CB333B,#a2282f,New Mexico State,UIW,,
+12,"Saturday, November 16, 2019",Iowa,23,20.0,home,#010101,#000,Minnesota,19,8.0,away,#861F41,#6b1834,Iowa,Minnesota,Big Ten,Big Ten
+12,"Saturday, November 16, 2019",Syracuse,49,,away,#DC4405,#b03604,Duke,6,,home,#002D72,#00245b,Syracuse,Duke,Atlantic Coast,Atlantic Coast
+12,"Saturday, November 16, 2019",Rice,31,,away,#00205B,#001948,Middle Tenn.,28,,home,#005EB8,#004b93,Rice,Middle Tennessee,Conference USA,Conference USA
+12,"Saturday, November 16, 2019",Washington St.,49,,home,#9D2235,#7d1b2a,Stanford,22,,away,#9D2235,#7d1b2a,Washington State,Stanford,Pac-12,Pac-12
+12,"Saturday, November 16, 2019",Louisiana,37,,away,#C8102E,#a00c24,South Alabama,27,,home,#BF0D3E,#980a31,Louisiana-Lafayette,South Alabama,Sun Belt,Sun Belt
+12,"Saturday, November 16, 2019",Southern Miss.,36,,away,#010101,#000,UTSA,17,,home,#0C2340,#091c33,Southern Miss,UTSA,Conference USA,Conference USA
+12,"Saturday, November 16, 2019",Cincinnati,20,17.0,away,#C8102E,#a00c24,South Fla.,17,,home,#006747,#005238,Cincinnati,South Florida,American Athletic Conference,American Athletic Conference
+12,"Saturday, November 16, 2019",Air Force,38,,away,#0032A0,#002880,Colorado St.,21,,home,#2C5234,#234129,Air Force,Colorado State,Mountain West,Mountain West
+12,"Saturday, November 16, 2019",LSU,58,1.0,away,#582C83,#462368,Ole Miss,37,,home,#00205B,#001948,LSU,Ole Miss,Southeastern,Southeastern
+12,"Saturday, November 16, 2019",Appalachian St.,56,25.0,away,#010101,#000,Georgia St.,27,,home,#0032A0,#002880,Appalachian State,Georgia State,Sun Belt,Sun Belt
+12,"Saturday, November 16, 2019",Oklahoma,34,10.0,away,#9D2235,#7d1b2a,Baylor,31,13.0,home,#1D3C34,#173029,Oklahoma,Baylor,Big 12,Big 12
+12,"Saturday, November 16, 2019",Louisville,34,,away,#BA0C2F,#940925,NC State,20,,home,#C8102E,#a00c24,Louisville,North Carolina State,Atlantic Coast,Atlantic Coast
+12,"Saturday, November 16, 2019",Texas A&M,30,,home,#500000,#400000,South Carolina,6,,away,#862633,#6b1e28,Texas A&M,South Carolina,Southeastern,Southeastern
+12,"Saturday, November 16, 2019",Oregon St.,35,,home,#DC4405,#b03604,Arizona St.,34,,away,#7D2248,#641b39,Oregon State,Arizona State,Pac-12,Pac-12
+12,"Saturday, November 16, 2019",Utah,49,7.0,home,#BA0C2F,#940925,UCLA,3,,away,#0072CE,#005ba4,Utah,UCLA,Pac-12,Pac-12
+12,"Saturday, November 16, 2019",Boise St.,42,21.0,home,#0032A0,#002880,New Mexico,9,,away,#BA0C2F,#940925,Boise State,New Mexico,Mountain West,Mountain West
+12,"Saturday, November 16, 2019",Oregon,34,6.0,home,#173F35,#12322a,Arizona,6,,away,#00205B,#001948,Oregon,Arizona,Pac-12,Pac-12
+12,"Sunday, November 17, 2019",Southern California,41,,away,#9D2235,#7d1b2a,California,17,,home,#041E42,#031834,USC,California,Pac-12,Pac-12
+13,"Tuesday, November 19, 2019",Ohio,66,,away,#2C5234,#234129,Bowling Green,24,,home,#FE5000,#cb4000,Ohio,Bowling Green,Mid-American,Mid-American
+13,"Tuesday, November 19, 2019",Eastern Mich.,45,,away,#046A38,#03542c,Northern Ill.,17,,home,#BA0C2F,#940925,Eastern Michigan,Northern Illinois,Mid-American,Mid-American
+13,"Wednesday, November 20, 2019",Miami (OH),20,,home,#C8102E,#a00c24,Akron,17,,away,#041E42,#031834,Miami (OH),Akron,Mid-American,Mid-American
+13,"Wednesday, November 20, 2019",Buffalo,49,,home,#0057B8,#004593,Toledo,30,,away,#00205B,#001948,Buffalo,Toledo,Mid-American,Mid-American
+13,"Thursday, November 21, 2019",Georgia Tech,28,,home,#B3A369,#8f8254,NC State,26,,away,#C8102E,#a00c24,Georgia Tech,North Carolina State,Atlantic Coast,Atlantic Coast
+13,"Friday, November 22, 2019",Wyoming,17,,home,#4E3629,#3e2b20,Colorado St.,7,,away,#2C5234,#234129,Wyoming,Colorado State,Mountain West,Mountain West
+13,"Saturday, November 23, 2019",Michigan St.,27,,away,#173F35,#12322a,Rutgers,0,,home,#C8102E,#a00c24,Michigan State,Rutgers,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",Virginia,55,,home,#232D4B,#1c243c,Liberty,27,,away,#A6192E,#841424,Virginia,Liberty,Atlantic Coast,Independents(FBS)
+13,"Saturday, November 23, 2019",Oklahoma St.,20,21.0,away,#E35205,#b54104,West Virginia,13,,home,#002855,#002044,Oklahoma State,West Virginia,Big 12,Big 12
+13,"Saturday, November 23, 2019",BYU,56,,away,#002E5D,#00244a,Massachusetts,24,,home,#971B2F,#781525,Brigham Young,Massachusetts,Independents(FBS),Independents(FBS)
+13,"Saturday, November 23, 2019",UCF,34,,away,#010101,#000,Tulane,31,,home,#006747,#005238,UCF,Tulane,American Athletic Conference,American Athletic Conference
+13,"Saturday, November 23, 2019",Alabama,66,5.0,home,#9D2235,#7d1b2a,Western Caro.,3,,away,#5F259F,#4c1d7f,Alabama,Western Caro.,Southeastern,
+13,"Saturday, November 23, 2019",East Carolina,31,,away,#582C83,#462368,UConn,24,,home,#0C2340,#091c33,East Carolina,Connecticut,American Athletic Conference,
+13,"Saturday, November 23, 2019",Auburn,52,15.0,home,#0C2340,#091c33,Samford,0,,away,#0C2340,#091c33,Auburn,Samford,Southeastern,
+13,"Saturday, November 23, 2019",Kent St.,41,,home,#00205B,#001948,Ball St.,38,,away,#BA0C2F,#940925,Kent State,Ball State,Mid-American,Mid-American
+13,"Saturday, November 23, 2019",Ohio St.,28,2.0,home,#BA0C2F,#940925,Penn St.,17,8.0,away,#041E42,#031834,Ohio State,Penn State,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",Iowa,19,17.0,home,#010101,#000,Illinois,10,,away,#E04E39,#b33e2d,Iowa,Illinois,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",Minnesota,38,10.0,away,#861F41,#6b1834,Northwestern,22,,home,#4E2A84,#3e2169,Minnesota,Northwestern,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",Iowa St.,41,22.0,home,#A6192E,#841424,Kansas,31,,away,#003DA5,#003084,Iowa State,Kansas,Big 12,Big 12
+13,"Saturday, November 23, 2019",Air Force,44,,away,#0032A0,#002880,New Mexico,22,,home,#BA0C2F,#940925,Air Force,New Mexico,Mountain West,Mountain West
+13,"Saturday, November 23, 2019",Georgia St.,28,,home,#0032A0,#002880,South Alabama,15,,away,#BF0D3E,#980a31,Georgia State,South Alabama,Sun Belt,Sun Belt
+13,"Saturday, November 23, 2019",Appalachian St.,35,24.0,home,#010101,#000,Texas St.,13,,away,#572932,#452028,Appalachian State,Texas State,Sun Belt,Sun Belt
+13,"Saturday, November 23, 2019",Notre Dame,40,16.0,home,#0C2340,#091c33,Boston College,7,,away,#862633,#6b1e28,Notre Dame,Boston College,Atlantic Coast,Atlantic Coast
+13,"Saturday, November 23, 2019",Arkansas St.,38,,home,#C8102E,#a00c24,Ga. Southern,33,,away,#041E42,#031834,Arkansas State,Georgia Southern,Sun Belt,Sun Belt
+13,"Saturday, November 23, 2019",Vanderbilt,38,,home,#010101,#000,ETSU,0,,away,#041E42,#031834,Vanderbilt,ETSU,Southeastern,
+13,"Saturday, November 23, 2019",North Carolina,56,,home,#7BAFD4,#628ca9,Mercer,7,,away,#E87722,#b95f1b,North Carolina,Mercer,Atlantic Coast,
+13,"Saturday, November 23, 2019",Navy,35,,home,#00205B,#001948,SMU,28,25.0,away,#C8102E,#a00c24,Navy,SMU,American Athletic Conference,American Athletic Conference
+13,"Saturday, November 23, 2019",Michigan,39,13.0,away,#041E42,#031834,Indiana,14,,home,#9D2235,#7d1b2a,Michigan,Indiana,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",Kentucky,50,,home,#0032A0,#002880,UT Martin,7,,away,#0C2340,#091c33,Kentucky,UT Martin,Southeastern,
+13,"Saturday, November 23, 2019",Georgia,19,4.0,home,#DA291C,#ae2016,Texas A&M,13,,away,#500000,#400000,Georgia,Texas A&M,Southeastern,Southeastern
+13,"Saturday, November 23, 2019",Virginia Tech,28,,home,#861F41,#6b1834,Pittsburgh,0,,away,#003594,#002a76,Virginia Tech,Pittsburgh,Atlantic Coast,Atlantic Coast
+13,"Saturday, November 23, 2019",Nebraska,54,,away,#C8102E,#a00c24,Maryland,7,,home,#C8102E,#a00c24,Nebraska,Maryland,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",Rice,20,,home,#00205B,#001948,North Texas,14,,away,#007A33,#006128,Rice,North Texas,Conference USA,Conference USA
+13,"Saturday, November 23, 2019",Western Ky.,28,,away,#C8102E,#a00c24,Southern Miss.,10,,home,#010101,#000,Western Kentucky,Southern Miss,Conference USA,Conference USA
+13,"Saturday, November 23, 2019",UAB,20,,home,#006341,#004f34,Louisiana Tech,14,,away,#003087,#00266c,UAB,Louisiana Tech,Conference USA,Conference USA
+13,"Saturday, November 23, 2019",Charlotte,24,,home,#046A38,#03542c,Marshall,13,,away,#00B140,#008d33,Charlotte,Marshall,Conference USA,Conference USA
+13,"Saturday, November 23, 2019",Baylor,24,14.0,home,#1D3C34,#173029,Texas,10,,away,#CB6015,#a24c10,Baylor,Texas,Big 12,Big 12
+13,"Saturday, November 23, 2019",Southern California,52,23.0,home,#9D2235,#7d1b2a,UCLA,35,,away,#0072CE,#005ba4,USC,UCLA,Pac-12,Pac-12
+13,"Saturday, November 23, 2019",UNLV,38,,home,#C8102E,#a00c24,San Jose St.,35,,away,#0032A0,#002880,UNLV,San Jose State,Mountain West,Mountain West
+13,"Saturday, November 23, 2019",California,24,,away,#041E42,#031834,Stanford,20,,home,#9D2235,#7d1b2a,California,Stanford,Pac-12,Pac-12
+13,"Saturday, November 23, 2019",Wisconsin,45,12.0,home,#BA0C2F,#940925,Purdue,24,,away,#010101,#000,Wisconsin,Purdue,Big Ten,Big Ten
+13,"Saturday, November 23, 2019",New Mexico St.,44,,home,#861F41,#6b1834,UTEP,35,,away,#041E42,#031834,New Mexico State,UTEP,,Conference USA
+13,"Saturday, November 23, 2019",Louisville,56,,home,#BA0C2F,#940925,Syracuse,34,,away,#DC4405,#b03604,Louisville,Syracuse,Atlantic Coast,Atlantic Coast
+13,"Saturday, November 23, 2019",Memphis,49,18.0,away,#012169,#001a54,South Fla.,10,,home,#006747,#005238,Memphis,South Florida,American Athletic Conference,American Athletic Conference
+13,"Saturday, November 23, 2019",Middle Tenn.,38,,home,#005EB8,#004b93,Old Dominion,17,,away,#003057,#002645,Middle Tennessee,Old Dominion,Conference USA,
+13,"Saturday, November 23, 2019",Louisiana,53,,home,#C8102E,#a00c24,Troy,3,,away,#9D2235,#7d1b2a,Louisiana-Lafayette,Troy,Sun Belt,Sun Belt
+13,"Saturday, November 23, 2019",La.-Monroe,45,,home,#6F2C3F,#582332,Coastal Carolina,42,,away,#007377,#005c5f,Louisiana-Monroe,Coastal Carolina,Sun Belt,Sun Belt
+13,"Saturday, November 23, 2019",Fla. Atlantic,40,,away,#002855,#002044,UTSA,26,,home,#0C2340,#091c33,Florida Atlantic,UTSA,Conference USA,Conference USA
+13,"Saturday, November 23, 2019",Kansas St.,30,,away,#582C83,#462368,Texas Tech,27,,home,#DA291C,#ae2016,Kansas State,Texas Tech,Big 12,Big 12
+13,"Saturday, November 23, 2019",LSU,56,1.0,home,#582C83,#462368,Arkansas,20,,away,#9D2235,#7d1b2a,LSU,Arkansas,Southeastern,Southeastern
+13,"Saturday, November 23, 2019",Cincinnati,15,19.0,home,#C8102E,#a00c24,Temple,13,,away,#b30838,#8f062c,Cincinnati,Temple,American Athletic Conference,American Athletic Conference
+13,"Saturday, November 23, 2019",FIU,30,,home,#041E42,#031834,Miami (FL),24,,away,#154734,#103829,Florida International,Miami (FL),Conference USA,Atlantic Coast
+13,"Saturday, November 23, 2019",Tennessee,24,,away,#FF8200,#cc6800,Missouri,20,,home,#010101,#000,Tennessee,Missouri,Southeastern,Southeastern
+13,"Saturday, November 23, 2019",Wake Forest,39,,home,#010101,#000,Duke,27,,away,#002D72,#00245b,Wake Forest,Duke,Atlantic Coast,Atlantic Coast
+13,"Saturday, November 23, 2019",Mississippi St.,45,,home,#6F2C3F,#582332,Abilene Christian,7,,away,#582C83,#462368,Mississippi State,Abilene Christian,Southeastern,
+13,"Saturday, November 23, 2019",Houston,24,,away,#C8102E,#a00c24,Tulsa,14,,home,#002D72,#00245b,Houston,Tulsa,American Athletic Conference,American Athletic Conference
+13,"Saturday, November 23, 2019",Arizona St.,31,,home,#7D2248,#641b39,Oregon,28,6.0,away,#173F35,#12322a,Arizona State,Oregon,Pac-12,Pac-12
+13,"Saturday, November 23, 2019",Oklahoma,28,9.0,home,#9D2235,#7d1b2a,TCU,24,,away,#582C83,#462368,Oklahoma,TCU,Big 12,Big 12
+13,"Saturday, November 23, 2019",Washington St.,54,,home,#9D2235,#7d1b2a,Oregon St.,53,,away,#DC4405,#b03604,Washington State,Oregon State,Pac-12,Pac-12
+13,"Saturday, November 23, 2019",Colorado,20,,home,#010101,#000,Washington,14,,away,#330072,#28005b,Colorado,Washington,Pac-12,Pac-12
+13,"Saturday, November 23, 2019",Utah,35,7.0,away,#BA0C2F,#940925,Arizona,7,,home,#00205B,#001948,Utah,Arizona,Pac-12,Pac-12
+13,"Saturday, November 23, 2019",Nevada,35,,away,#041E42,#031834,Fresno St.,28,,home,#D50032,#aa0028,Nevada,Fresno State,Mountain West,Mountain West
+13,"Saturday, November 23, 2019",Boise St.,56,20.0,away,#0032A0,#002880,Utah St.,21,,home,#00263A,#001e2e,Boise State,Utah State,Mountain West,Mountain West
+13,"Sunday, November 24, 2019",Hawaii,14,,home,#154734,#103829,San Diego St.,11,,away,#A6192E,#841424,Hawaii,San Diego State,Mountain West,Mountain West
+14,"Tuesday, November 26, 2019",Ohio,52,,away,#2C5234,#234129,Akron,3,,home,#041E42,#031834,Ohio,Akron,Mid-American,Mid-American
+14,"Tuesday, November 26, 2019",Northern Ill.,17,,home,#BA0C2F,#940925,Western Mich.,14,,away,#693F23,#54321c,Northern Illinois,Western Michigan,Mid-American,Mid-American
+14,"Thursday, November 28, 2019",Mississippi St.,21,,home,#6F2C3F,#582332,Ole Miss,20,,away,#00205B,#001948,Mississippi State,Ole Miss,Southeastern,Southeastern
+14,"Friday, November 29, 2019",Virginia,39,,home,#232D4B,#1c243c,Virginia Tech,30,24.0,away,#861F41,#6b1834,Virginia,Virginia Tech,Atlantic Coast,Atlantic Coast
+14,"Friday, November 29, 2019",Buffalo,49,,home,#0057B8,#004593,Bowling Green,7,,away,#FE5000,#cb4000,Buffalo,Bowling Green,Mid-American,Mid-American
+14,"Friday, November 29, 2019",Ball St.,41,,home,#BA0C2F,#940925,Miami (OH),27,,away,#C8102E,#a00c24,Ball State,Miami (OH),Mid-American,Mid-American
+14,"Friday, November 29, 2019",Kent St.,34,,away,#00205B,#001948,Eastern Mich.,26,,home,#046A38,#03542c,Kent State,Eastern Michigan,Mid-American,Mid-American
+14,"Friday, November 29, 2019",Texas,49,,home,#CB6015,#a24c10,Texas Tech,24,,away,#DA291C,#ae2016,Texas,Texas Tech,Big 12,Big 12
+14,"Friday, November 29, 2019",Central Mich.,49,,home,#6F263D,#581e30,Toledo,7,,away,#00205B,#001948,Central Michigan,Toledo,Mid-American,Mid-American
+14,"Friday, November 29, 2019",Missouri,24,,away,#010101,#000,Arkansas,14,,home,#9D2235,#7d1b2a,Missouri,Arkansas,Southeastern,Southeastern
+14,"Friday, November 29, 2019",Iowa,27,17.0,away,#010101,#000,Nebraska,24,,home,#C8102E,#a00c24,Iowa,Nebraska,Big Ten,Big Ten
+14,"Friday, November 29, 2019",Memphis,34,18.0,home,#012169,#001a54,Cincinnati,24,19.0,away,#C8102E,#a00c24,Memphis,Cincinnati,American Athletic Conference,American Athletic Conference
+14,"Friday, November 29, 2019",Boise St.,31,20.0,away,#0032A0,#002880,Colorado St.,24,,home,#2C5234,#234129,Boise State,Colorado State,Mountain West,Mountain West
+14,"Friday, November 29, 2019",Washington,31,,home,#330072,#28005b,Washington St.,13,,away,#9D2235,#7d1b2a,Washington,Washington State,Pac-12,Pac-12
+14,"Friday, November 29, 2019",West Virginia,20,,away,#002855,#002044,TCU,17,,home,#582C83,#462368,West Virginia,TCU,Big 12,Big 12
+14,"Friday, November 29, 2019",South Alabama,34,,home,#BF0D3E,#980a31,Arkansas St.,30,,away,#C8102E,#a00c24,South Alabama,Arkansas State,Sun Belt,Sun Belt
+14,"Friday, November 29, 2019",Appalachian St.,48,25.0,away,#010101,#000,Troy,13,,home,#9D2235,#7d1b2a,Appalachian State,Troy,Sun Belt,Sun Belt
+14,"Friday, November 29, 2019",UCF,34,,home,#010101,#000,South Fla.,7,,away,#006747,#005238,UCF,South Florida,American Athletic Conference,American Athletic Conference
+14,"Saturday, November 30, 2019",Tulsa,49,,away,#002D72,#00245b,East Carolina,24,,home,#582C83,#462368,Tulsa,East Carolina,American Athletic Conference,American Athletic Conference
+14,"Saturday, November 30, 2019",Georgia,52,4.0,away,#DA291C,#ae2016,Georgia Tech,7,,home,#B3A369,#8f8254,Georgia,Georgia Tech,Southeastern,Atlantic Coast
+14,"Saturday, November 30, 2019",Kentucky,45,,home,#0032A0,#002880,Louisville,13,,away,#BA0C2F,#940925,Kentucky,Louisville,Southeastern,Atlantic Coast
+14,"Saturday, November 30, 2019",Clemson,38,3.0,away,#FF6720,#cc5219,South Carolina,3,,home,#862633,#6b1e28,Clemson,South Carolina,Atlantic Coast,Southeastern
+14,"Saturday, November 30, 2019",Coastal Carolina,24,,home,#007377,#005c5f,Texas St.,21,,away,#572932,#452028,Coastal Carolina,Texas State,Sun Belt,Sun Belt
+14,"Saturday, November 30, 2019",Northwestern,29,,away,#4E2A84,#3e2169,Illinois,10,,home,#E04E39,#b33e2d,Northwestern,Illinois,Big Ten,Big Ten
+14,"Saturday, November 30, 2019",Marshall,30,,home,#00B140,#008d33,FIU,27,,away,#041E42,#031834,Marshall,Florida International,Conference USA,Conference USA
+14,"Saturday, November 30, 2019",Ohio St.,56,1.0,away,#BA0C2F,#940925,Michigan,27,13.0,home,#041E42,#031834,Ohio State,Michigan,Big Ten,Big Ten
+14,"Saturday, November 30, 2019",Indiana,44,,away,#9D2235,#7d1b2a,Purdue,41,,home,#010101,#000,Indiana,Purdue,Big Ten,Big Ten
+14,"Saturday, November 30, 2019",Syracuse,39,,home,#DC4405,#b03604,Wake Forest,30,,away,#010101,#000,Syracuse,Wake Forest,Atlantic Coast,Atlantic Coast
+14,"Saturday, November 30, 2019",Air Force,20,,home,#0032A0,#002880,Wyoming,6,,away,#4E3629,#3e2b20,Air Force,Wyoming,Mountain West,Mountain West
+14,"Saturday, November 30, 2019",Charlotte,38,,away,#046A38,#03542c,Old Dominion,22,,home,#003057,#002645,Charlotte,Old Dominion,Conference USA,
+14,"Saturday, November 30, 2019",Liberty,49,,home,#A6192E,#841424,New Mexico St.,28,,away,#861F41,#6b1834,Liberty,New Mexico State,Independents(FBS),
+14,"Saturday, November 30, 2019",Western Ky.,31,,home,#C8102E,#a00c24,Middle Tenn.,26,,away,#005EB8,#004b93,Western Kentucky,Middle Tennessee,Conference USA,Conference USA
+14,"Saturday, November 30, 2019",Rice,30,,away,#00205B,#001948,UTEP,16,,home,#041E42,#031834,Rice,UTEP,Conference USA,Conference USA
+14,"Saturday, November 30, 2019",UNLV,33,,away,#C8102E,#a00c24,Nevada,30,,home,#041E42,#031834,UNLV,Nevada,Mountain West,Mountain West
+14,"Saturday, November 30, 2019",Michigan St.,19,,home,#173F35,#12322a,Maryland,16,,away,#C8102E,#a00c24,Michigan State,Maryland,Big Ten,Big Ten
+14,"Saturday, November 30, 2019",Duke,27,,home,#002D72,#00245b,Miami (FL),17,,away,#154734,#103829,Duke,Miami (FL),Atlantic Coast,Atlantic Coast
+14,"Saturday, November 30, 2019",Boston College,26,,away,#862633,#6b1e28,Pittsburgh,19,,home,#003594,#002a76,Boston College,Pittsburgh,Atlantic Coast,Atlantic Coast
+14,"Saturday, November 30, 2019",Auburn,48,15.0,home,#0C2340,#091c33,Alabama,45,5.0,away,#9D2235,#7d1b2a,Auburn,Alabama,Southeastern,Southeastern
+14,"Saturday, November 30, 2019",Penn St.,27,10.0,home,#041E42,#031834,Rutgers,6,,away,#C8102E,#a00c24,Penn State,Rutgers,Big Ten,Big Ten
+14,"Saturday, November 30, 2019",Wisconsin,38,12.0,away,#BA0C2F,#940925,Minnesota,17,8.0,home,#861F41,#6b1834,Wisconsin,Minnesota,Big Ten,Big Ten
+14,"Saturday, November 30, 2019",Louisiana Tech,41,,home,#003087,#00266c,UTSA,27,,away,#0C2340,#091c33,Louisiana Tech,UTSA,Conference USA,Conference USA
+14,"Saturday, November 30, 2019",Baylor,61,9.0,away,#1D3C34,#173029,Kansas,6,,home,#003DA5,#003084,Baylor,Kansas,Big 12,Big 12
+14,"Saturday, November 30, 2019",Temple,49,,home,#b30838,#8f062c,UConn,17,,away,#0C2340,#091c33,Temple,Connecticut,American Athletic Conference,
+14,"Saturday, November 30, 2019",Fla. Atlantic,34,,home,#002855,#002044,Southern Miss.,17,,away,#010101,#000,Florida Atlantic,Southern Miss,Conference USA,Conference USA
+14,"Saturday, November 30, 2019",UAB,26,,away,#006341,#004f34,North Texas,21,,home,#007A33,#006128,UAB,North Texas,Conference USA,Conference USA
+14,"Saturday, November 30, 2019",Tennessee,28,,home,#FF8200,#cc6800,Vanderbilt,10,,away,#010101,#000,Tennessee,Vanderbilt,Southeastern,Southeastern
+14,"Saturday, November 30, 2019",Notre Dame,45,16.0,away,#0C2340,#091c33,Stanford,24,,home,#9D2235,#7d1b2a,Notre Dame,Stanford,Atlantic Coast,Pac-12
+14,"Saturday, November 30, 2019",Oregon,24,14.0,home,#173F35,#12322a,Oregon St.,10,,away,#DC4405,#b03604,Oregon,Oregon State,Pac-12,Pac-12
+14,"Saturday, November 30, 2019",Utah St.,38,,away,#00263A,#001e2e,New Mexico,25,,home,#BA0C2F,#940925,Utah State,New Mexico,Mountain West,Mountain West
+14,"Saturday, November 30, 2019",SMU,37,,home,#C8102E,#a00c24,Tulane,20,,away,#006747,#005238,SMU,Tulane,American Athletic Conference,American Athletic Conference
+14,"Saturday, November 30, 2019",Ga. Southern,38,,home,#041E42,#031834,Georgia St.,10,,away,#0032A0,#002880,Georgia Southern,Georgia State,Sun Belt,Sun Belt
+14,"Saturday, November 30, 2019",North Carolina,41,,away,#7BAFD4,#628ca9,NC State,10,,home,#C8102E,#a00c24,North Carolina,North Carolina State,Atlantic Coast,Atlantic Coast
+14,"Saturday, November 30, 2019",LSU,50,2.0,home,#582C83,#462368,Texas A&M,7,,away,#500000,#400000,LSU,Texas A&M,Southeastern,Southeastern
+14,"Saturday, November 30, 2019",Kansas St.,27,,home,#582C83,#462368,Iowa St.,17,23.0,away,#A6192E,#841424,Kansas State,Iowa State,Big 12,Big 12
+14,"Saturday, November 30, 2019",Navy,56,,away,#00205B,#001948,Houston,41,,home,#C8102E,#a00c24,Navy,Houston,American Athletic Conference,American Athletic Conference
+14,"Saturday, November 30, 2019",Louisiana,31,,home,#C8102E,#a00c24,La.-Monroe,30,,away,#6F2C3F,#582332,Louisiana-Lafayette,Louisiana-Monroe,Sun Belt,Sun Belt
+14,"Saturday, November 30, 2019",Florida,40,11.0,home,#003087,#00266c,Florida St.,17,,away,#782F40,#602533,Florida,Florida State,Southeastern,Atlantic Coast
+14,"Saturday, November 30, 2019",Utah,45,6.0,home,#BA0C2F,#940925,Colorado,15,,away,#010101,#000,Utah,Colorado,Pac-12,Pac-12
+14,"Saturday, November 30, 2019",Oklahoma,34,7.0,away,#9D2235,#7d1b2a,Oklahoma St.,16,21.0,home,#E35205,#b54104,Oklahoma,Oklahoma State,Big 12,Big 12
+14,"Saturday, November 30, 2019",San Diego St.,13,,home,#A6192E,#841424,BYU,3,,away,#002E5D,#00244a,San Diego State,Brigham Young,Mountain West,Independents(FBS)
+14,"Saturday, November 30, 2019",Arizona St.,24,,home,#7D2248,#641b39,Arizona,14,,away,#00205B,#001948,Arizona State,Arizona,Pac-12,Pac-12
+14,"Saturday, November 30, 2019",San Jose St.,17,,home,#0032A0,#002880,Fresno St.,16,,away,#D50032,#aa0028,San Jose State,Fresno State,Mountain West,Mountain West
+14,"Saturday, November 30, 2019",California,28,,away,#041E42,#031834,UCLA,18,,home,#0072CE,#005ba4,California,UCLA,Pac-12,Pac-12
+14,"Sunday, December 01, 2019",Hawaii,52,,home,#154734,#103829,Army West Point,31,,away,#010101,#000,Hawaii,Army,Mountain West,Independents(FBS)
+15,"Friday, December 06, 2019",Oregon,37,13.0,home,#173F35,#12322a,Utah,15,5.0,away,#BA0C2F,#940925,Oregon,Utah,Pac-12,Pac-12
+15,"Saturday, December 07, 2019",Appalachian St.,45,21.0,home,#010101,#000,Louisiana,38,,away,#C8102E,#a00c24,Appalachian State,Louisiana-Lafayette,Sun Belt,Sun Belt
+15,"Saturday, December 07, 2019",Oklahoma,30,6.0,home,#9D2235,#7d1b2a,Baylor,23,7.0,away,#1D3C34,#173029,Oklahoma,Baylor,Big 12,Big 12
+15,"Saturday, December 07, 2019",Miami (OH),26,,away,#C8102E,#a00c24,Central Mich.,21,,home,#6F263D,#581e30,Miami (OH),Central Michigan,Mid-American,Mid-American
+15,"Saturday, December 07, 2019",Fla. Atlantic,49,,home,#002855,#002044,UAB,6,,away,#006341,#004f34,Florida Atlantic,UAB,Conference USA,Conference USA
+15,"Saturday, December 07, 2019",Memphis,29,17.0,home,#012169,#001a54,Cincinnati,24,20.0,away,#C8102E,#a00c24,Memphis,Cincinnati,American Athletic Conference,American Athletic Conference
+15,"Saturday, December 07, 2019",Boise St.,31,19.0,home,#0032A0,#002880,Hawaii,10,,away,#154734,#103829,Boise State,Hawaii,Mountain West,Mountain West
+15,"Saturday, December 07, 2019",LSU,37,2.0,home,#582C83,#462368,Georgia,10,4.0,away,#DA291C,#ae2016,LSU,Georgia,Southeastern,Southeastern
+15,"Saturday, December 07, 2019",Clemson,62,3.0,home,#FF6720,#cc5219,Virginia,17,23.0,away,#232D4B,#1c243c,Clemson,Virginia,Atlantic Coast,Atlantic Coast
+15,"Saturday, December 07, 2019",Ohio St.,34,1.0,away,#BA0C2F,#940925,Wisconsin,21,8.0,home,#BA0C2F,#940925,Ohio State,Wisconsin,Big Ten,Big Ten
+16,"Saturday, December 14, 2019",Navy,31,23.0,home,#00205B,#001948,Army West Point,7,,away,#010101,#000,Navy,Army,American Athletic Conference,Independents(FBS)
+17,"Friday, December 18, 2020",UAB,22,,away,#006341,#004f34,Marshall,13,,home,#00B140,#008d33,UAB,Marshall,Conference USA,Conference USA
+17,"Friday, December 18, 2020",Ball St.,38,,away,#BA0C2F,#940925,Buffalo,28,,home,#0057B8,#004593,Ball State,Buffalo,Mid-American,Mid-American
+17,"Friday, December 18, 2020",Nebraska,28,,away,#C8102E,#a00c24,Rutgers,21,,home,#C8102E,#a00c24,Nebraska,Rutgers,Big Ten,Big Ten
+17,"Friday, December 18, 2020",Oregon,31,,away,#173F35,#12322a,Southern California,24,13.0,home,#9D2235,#7d1b2a,Oregon,USC,Pac-12,Pac-12
+17,"Saturday, December 19, 2020",Texas A&M,34,5.0,away,#500000,#400000,Tennessee,13,,home,#FF8200,#cc6800,Texas A&M,Tennessee,Southeastern,Southeastern
+17,"Saturday, December 19, 2020",Oklahoma,27,10.0,away,#9D2235,#7d1b2a,Iowa St.,21,6.0,home,#A6192E,#841424,Oklahoma,Iowa State,Big 12,Big 12
+17,"Saturday, December 19, 2020",Ohio St.,22,4.0,home,#CE0F3E,#a40c31,Northwestern,10,14.0,away,#4E2A84,#3e2169,Ohio State,Northwestern,Big Ten,Big Ten
+17,"Saturday, December 19, 2020",Utah,45,,home,#BA0C2F,#940925,Washington St.,28,,away,#9D2235,#7d1b2a,Utah,Washington State,Pac-12,Pac-12
+17,"Saturday, December 19, 2020",Army West Point,10,,home,#010101,#000,Air Force,7,,away,#0032A0,#002880,Army,Air Force,Independents(FBS),Mountain West
+17,"Saturday, December 19, 2020",Mississippi St.,51,,home,#6F2C3F,#582332,Missouri,32,,away,#010101,#000,Mississippi State,Missouri,Southeastern,Southeastern
+17,"Saturday, December 19, 2020",LSU,53,,home,#582C83,#462368,Ole Miss,48,,away,#C8102E,#a00c24,LSU,Ole Miss,Southeastern,Southeastern
+17,"Saturday, December 19, 2020",Clemson,34,3.0,away,#FF6720,#cc5219,Notre Dame,10,2.0,home,#0C2340,#091c33,Clemson,Notre Dame,Atlantic Coast,Atlantic Coast
+17,"Saturday, December 19, 2020",Wisconsin,20,,home,#BA0C2F,#940925,Minnesota,17,,away,#861F41,#6b1834,Wisconsin,Minnesota,Big Ten,Big Ten
+17,"Saturday, December 19, 2020",San Jose St.,34,24.0,home,#0032A0,#002880,Boise St.,20,,away,#0032A0,#002880,San Jose State,Boise State,Mountain West,Mountain West
+17,"Saturday, December 19, 2020",Penn St.,56,,home,#041E42,#031834,Illinois,21,,away,#E04E39,#b33e2d,Penn State,Illinois,Big Ten,Big Ten
+17,"Saturday, December 19, 2020",Stanford,48,,away,#9D2235,#7d1b2a,UCLA,47,,home,#0072CE,#005ba4,Stanford,UCLA,Pac-12,Pac-12
+17,"Saturday, December 19, 2020",Alabama,52,1.0,away,#9D2235,#7d1b2a,Florida,46,7.0,home,#003087,#00266c,Alabama,Florida,Southeastern,Southeastern
+17,"Saturday, December 19, 2020",Cincinnati,27,9.0,home,#C8102E,#a00c24,Tulsa,24,23.0,away,#002D72,#00245b,Cincinnati,Tulsa,American Athletic Conference,American Athletic Conference
+17,"Saturday, December 19, 2020",Arizona St.,46,,away,#8A0C3C,#6e0930,Oregon St.,33,,home,#DC4405,#b03604,Arizona State,Oregon State,Pac-12,Pac-12
+17,"Monday, December 21, 2020",App State,56,,away,#010101,#000,North Texas,28,,home,#007A33,#006128,App State,North Texas,,Conference USA
+17,"Tuesday, December 22, 2020",Nevada,38,,home,#041E42,#031834,Tulane,27,,away,#006747,#005238,Nevada,Tulane,Mountain West,American Athletic Conference
+17,"Tuesday, December 22, 2020",BYU,49,16.0,home,#002E5D,#00244a,UCF,23,,away,#010101,#000,Brigham Young,UCF,Independents(FBS),American Athletic Conference
+17,"Wednesday, December 23, 2020",Ga. Southern,38,,home,#041E42,#031834,Louisiana Tech,3,,away,#003087,#00266c,Georgia Southern,Louisiana Tech,Sun Belt,Conference USA
+17,"Wednesday, December 23, 2020",Memphis,25,,away,#012169,#001a54,Fla. Atlantic,10,,home,#002855,#002044,Memphis,Florida Atlantic,American Athletic Conference,Conference USA
+17,"Thursday, December 24, 2020",Hawaii,28,,away,#154734,#103829,Houston,14,,home,#E51636,#b7112b,Hawaii,Houston,Mountain West,American Athletic Conference
+17,"Friday, December 25, 2020",Buffalo,17,,home,#0057B8,#004593,Marshall,10,,away,#00B140,#008d33,Buffalo,Marshall,Mid-American,Conference USA
+17,"Saturday, December 26, 2020",Georgia St.,39,,home,#264391,#1e3574,Western Ky.,21,,away,#C8102E,#a00c24,Georgia State,Western Kentucky,Sun Belt,Conference USA
+17,"Saturday, December 26, 2020",Louisiana,31,19.0,away,#C8102E,#a00c24,UTSA,24,,home,#0C2340,#091c33,Louisiana-Lafayette,UTSA,Sun Belt,Conference USA
+17,"Saturday, December 26, 2020",Liberty,37,,away,#971A1F,#781418,Coastal Carolina,34,12.0,home,#007377,#005c5f,Liberty,Coastal Carolina,Independents(FBS),Sun Belt
