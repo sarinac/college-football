@@ -13,6 +13,7 @@ body {
 	font-family: "Geogrotesque", "Rockwell", Georgia, "Times New Roman", serif;
 	background:url(../img/chalkboard.jpg);
 	background-size: cover;
+	background-attachment: fixed;
 	color: #ffffff;
 }
 
@@ -37,9 +38,12 @@ h3 {
 	text-align: inherit;
 }
 
-p, a {
+p {
 	font-size: 14px;
 	text-align: inherit;
+}
+
+a {
 	color: #ffffff;
 }
 
